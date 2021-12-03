@@ -1,0 +1,129 @@
+OBJECT_SHARED Models/Misc/generic_church_02.ac 7.8036111 50.0438889 84.55 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7506679 50.0540708 145.88 196.85
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7519988 50.0544509 137.89 281.29
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7520554 50.0542688 147.85 281.29
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7530822 50.0546462 137.31 204.97
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7534837 50.0550337 122.76 18.53
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.753909 50.0551252 128.57 18.53
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7540872 50.0550123 138.88 205.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7555435 50.0553794 138.26 204.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7567067 50.0562131 122.78 276.7
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7567454 50.0557849 145.38 207.72
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7567791 50.0558173 144.79 276.7
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7567869 50.0557898 146.41 26.48
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7572399 50.0559347 152.52 26.48
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7577151 50.0561452 147.56 33.08
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7595755 50.0569232 137.95 33.17
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.76101 50.0615971 265.52 130.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7613242 50.0613617 247.53 130.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7613432 50.0576676 133.85 34.96
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7619556 50.0554949 247.98 338.43
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7621028 50.0607782 200.73 130.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7629332 50.060156 150.31 132.62
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7629342 50.0552465 235.73 338.43
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.763156 50.058534 128.58 39.53
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7638688 50.0589519 113.36 50.9
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7640684 50.0591685 104.3 61.42
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.764174 50.0593497 106.04 134.65
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7641894 50.059324 105.74 63.46
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7642295 50.0593339 105.43 286.46
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.764502 50.0587416 131.23 287.24
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7645301 50.0585229 143.51 288.86
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7647806 50.0580522 169.89 288.86
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7648376 50.0580797 168.78 283.83
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7649229 50.0577567 185.3 279.62
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7650903 50.0567041 193.82 102.56
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7664249 50.0528587 203.26 102.56
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7667842 50.0518234 226.21 102.56
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7674047 50.0514396 224.01 312.43
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.767428 50.0490436 243.98 83.54
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.768011 50.0492765 234.06 83.54
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7680656 50.0491035 231.62 318.08
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7681695 50.0490436 228.19 349.61
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.76825 50.0508458 228.56 293.4
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7683122 50.0488773 221.46 186.09
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7683902 50.0496688 228.72 274.37
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7684337 50.0491092 223.93 21.14
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7699661 50.0465692 220.01 83.54
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7701199 50.0490012 176.22 186.31
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7746384 50.0493336 116.17 186.53
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.7733989 50.0579017 73.26 61.09
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.7789638 50.0533058 73.32 332.44
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.7835035 50.0498136 74.31 188.33
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.7885297 50.0464195 74.45 241.99
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.7927776 50.044233 74 157.92
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.7983875 50.0414216 74.21 214.49
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8026354 50.0391723 74.67 108.18
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8146149 50.030476 74.49 356.93
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8218756 50.026244 75.13 343.76
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8312555 50.0207171 74.72 9.76
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8384749 50.0177676 75.87 68.71
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8446023 50.0158444 75.04 349.61
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8521655 50.0123098 76 232
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.85621 50.0088139 76.9 337.97
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8574233 50.0020034 85.37 155.65
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8579693 50.0046809 77.68 352.3
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.7752997 50.0574976 74.52 174.54
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.7800297 50.053648 75.63 83.17
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.7846265 50.0503115 74.89 269.18
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.7894897 50.0470603 75.45 288.21
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.7938199 50.0449213 74.92 216.79
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.7992827 50.0421404 74.23 95.55
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8035464 50.0397872 74.16 52.38
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8156994 50.0309684 75.81 16.44
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8229924 50.0268558 74.38 57.18
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.832133 50.0213471 74.17 72.31
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8391865 50.0185822 76.13 3.8
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8455445 50.0165239 76.07 329.48
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8535687 50.0126983 76.17 207.65
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8574838 50.0091842 78.86 260.29
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.858956 50.0019786 78 324.15
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8593604 50.0044014 78.66 204.14
+OBJECT_STATIC kaub.ac 7.765536 50.08312 73.3 90
+# Shared Objects for Eibinger Forstwiesen Nov 2021
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89314891 50.01478248 397.2707 273.7 0.0 -0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89310377 50.01523070 398.0955 273.7 0.0 -0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89305861 50.01567892 398.9221 273.7 0.0 -0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89301346 50.01612714 399.7525 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89296829 50.01657536 400.6130 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89292313 50.01702358 401.5023 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89174348 50.01954605 408.2213 116.5 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89205584 50.01914423 406.9435 116.5 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89236819 50.01874240 405.6664 116.5 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89268053 50.01834058 404.4028 116.5 0.0 --1.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89299287 50.01793875 403.2515 116.5 0.0 --1.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89130583 50.01939461 408.5723 116.3 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89161599 50.01899208 407.2394 116.3 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89192615 50.01858956 405.9067 116.3 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89223630 50.01818703 404.5899 116.3 0.0 --1.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89266759 50.01476516 397.5008 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89262290 50.01521340 398.3583 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89257822 50.01566164 399.2156 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89253354 50.01610988 400.0778 273.7 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89248886 50.01655812 400.9832 273.7 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89244418 50.01700636 401.9262 273.7 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89239950 50.01745460 402.8701 273.7 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.89235481 50.01790284 403.8261 273.7 0.0 -1.1
+OBJECT_SHARED Models/Airport/Eshott_hangar_1.ac 7.89427723 50.01461784 396.6748 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 7.89434499 50.01435666 396.3258 88.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.89437432 50.01428449 396.1904 96.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 7.89425617 50.01470351 396.9370 344.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 7.89422912 50.01462427 396.7424 351.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.89429558 50.01454641 402.6916 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89211630 50.01967350 407.9865 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89237345 50.01992510 408.1601 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89213086 50.02002875 408.7194 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89237132 50.01959821 407.4850 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89178738 50.02029543 409.8177 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89197785 50.02071733 410.5015 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89150352 50.01731932 403.7467 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89140605 50.01789773 405.1502 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89152098 50.01756303 404.2460 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89213416 50.01764349 403.5580 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89168255 50.01741704 403.7019 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89164853 50.01778733 404.5493 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89194750 50.01748804 403.4774 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89187937 50.01732460 403.2262 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89178693 50.01791717 404.6375 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89456636 50.01425139 396.1480 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.89472489 50.01425540 396.1726 0.0 0.0 -0.0

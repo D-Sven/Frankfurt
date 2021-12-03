@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>ffm_europaturm.ac</path>
+
+<model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>3.358584</x-m>
+	    <y-m>3.35858</y-m>
+	    <z-m>200.200211</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>4.587909</x-m>
+	    <y-m>-1.229325</y-m>
+	    <z-m>200.200211</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>1.229328</x-m>
+	    <y-m>-4.587905</y-m>
+	    <z-m>200.200211</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	  <x-m>-3.358577</x-m>
+	<y-m>-3.358578</y-m>
+	<z-m>200.200211</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-4.587901</x-m>
+			<y-m>1.229328</y-m>
+			<z-m>200.200211</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-1.229321</x-m>
+			<y-m>4.587906</y-m>
+			<z-m>200.200211</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>5.440904</x-m>
+			<y-m>5.440899</y-m>
+			<z-m>100.200188</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>7.43241</x-m>
+			<y-m>-1.991508</y-m>
+			<z-m>100.200188</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>1.991509</x-m>
+			<y-m>-7.432407</y-m>
+			<z-m>100.200188</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-5.440898</x-m>
+			<y-m>-5.440897</y-m>
+			<z-m>100.200188</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-7.432404</x-m>
+			<y-m>1.991511</y-m>
+			<z-m>100.200188</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-1.991503</x-m>
+			<y-m>7.432408</y-m>
+			<z-m>100.200188</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-1.580183</x-m>
+			<y-m>5.897339</y-m>
+			<z-m>150.200195</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-5.897336</x-m>
+			<y-m>1.58019</y-m>
+			<z-m>150.200195</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>-4.317149</x-m>
+			<y-m>-4.31715</y-m>
+			<z-m>150.200195</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>1.580189</x-m>
+			<y-m>-5.897338</y-m>
+			<z-m>150.200195</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>5.897342</x-m>
+			<y-m>-1.580187</y-m>
+			<z-m>150.200195</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+    
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>4.317155</x-m>
+			<y-m>4.317152</y-m>
+			      <z-m>150.200195</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+   <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	    <x-m>0</x-m>
+			<y-m>0</y-m>
+			<z-m>337.400024</z-m>
+	    <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+  <animation> 
+    <type>textranslate</type> 
+    <object-name>Base</object-name>
+    <object-name>Top2</object-name>
+    <object-name>Upperpart</object-name>
+    <object-name>Platforms</object-name>
+    <object-name>Antenna</object-name>
+    <property>/sim/time/sun-angle-rad</property>
+    <step> 1.57 </step>
+    <factor>0.318471338</factor>
+    <center>
+    <x-m> 0 </x-m>
+    <y-m> 0 </y-m>
+    <z-m> 0 </z-m>
+    </center>
+    <axis> 
+      <x> -1 </x> 
+      <y>  0 </y> 
+      <z>  0 </z> 
+    </axis> 
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>Base</object-name>
+    <object-name>Top2</object-name>
+    <object-name>Upperpart</object-name>
+    <object-name>Platforms</object-name>
+    <object-name>Antenna</object-name>
+    <condition>
+	<greater-than>
+	  <property>/sim/time/sun-angle-rad</property>
+	  <value>1.57</value>
+	</greater-than>
+    </condition>
+    <emission>	
+	<red>1.0</red>	
+	<green>1.0</green>	
+	<blue>1.0</blue>
+    </emission>
+  </animation>
+
+<animation>
+ <type>material</type> 
+    <object-name>Base</object-name>
+    <object-name>Top2</object-name>
+    <object-name>Upperpart</object-name>
+    <object-name>Platforms</object-name>
+    <object-name>Antenna</object-name>
+ <condition>		
+  <less-than-equals>		
+   <property>/sim/time/sun-angle-rad</property>
+   <value>1.57</value>
+  </less-than-equals>
+ </condition>
+ <emission>	
+  <red>0</red>	
+  <green>0</green>	
+  <blue>0</blue>
+ </emission>
+</animation>
+
+</PropertyList>
+

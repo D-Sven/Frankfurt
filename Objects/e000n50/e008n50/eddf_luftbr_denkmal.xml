@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <path>eddf_luftbr_denkmal.ac</path>
+
+<animation>
+   <type>range</type>
+   <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+ </animation>
+
+</PropertyList>

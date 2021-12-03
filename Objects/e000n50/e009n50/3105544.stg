@@ -1,0 +1,360 @@
+OBJECT_SHARED Models/Airport/ndb.ac 9.154167 50.1625 179.41 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 9.2108333 50.2091667 211 180
+OBJECT_SHARED Models/Misc/generic_church_02.ac 9.1925 50.2025 161.46 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0144191 50.1556711 113 24.78
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0173873 50.1565488 112.06 24.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0207049 50.1574973 111.04 24
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0247918 50.1586601 114.31 19.64
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0291221 50.159421 112.27 15.91
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0339158 50.1603298 113.19 18.34
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.03795 50.1612803 115.85 21.29
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0421176 50.1623803 117.65 23.64
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0457008 50.1634449 117.97 25.99
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.048551 50.1643792 118.24 27.1
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1003947 50.1278304 186.18 264.08
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1009013 50.1311325 179.99 263.85
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1015663 50.1347726 169.6 263.46
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1021046 50.1378509 166.54 263.82
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1025796 50.1407667 162.21 256.54
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1041523 50.1433981 155.49 248.47
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1058623 50.1460971 147.87 248.49
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1075617 50.1489447 141.82 248.72
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1092611 50.1516907 141.81 250.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1104032 50.2495702 185.65 326.05
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1108021 50.1548829 150.87 251.57
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1122165 50.157419 148.24 250.37
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1135359 50.1597925 150.28 250.73
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1139246 50.2480444 178.17 309.25
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.115172 50.162849 138.48 254.08
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1158287 50.2451229 167.28 292.13
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1166497 50.1669802 133.56 257.26
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1175951 50.242275 169.11 291.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1179586 50.1707393 131.36 257.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.119084 50.2398598 171.14 291.89
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1191513 50.1740384 128.59 257.11
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1203757 50.1775062 126.37 258.99
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1206456 50.2374198 156.56 291.4
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1210618 50.1801965 123.22 261.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1217268 50.183103 124.55 249.35
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1220533 50.2350152 146.42 291.44
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.124334 50.185678 125.83 237.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1244394 50.2313037 171.51 287.47
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1246797 50.2084743 146.57 281.55
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1253835 50.2285969 176.52 282.48
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1255981 50.2115393 146.86 258.76
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1264478 50.2141813 146.65 258.62
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1265717 50.1879826 125.68 237.92
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1265765 50.225121 150.36 282.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.126961 50.2063055 131.7 304.16
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1274077 50.2171595 155.52 219.06
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1274606 50.222595 151.39 282.53
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1282932 50.2201787 160.48 270.65
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1291686 50.2042389 127.47 320.48
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1294321 50.1908818 122.85 237.79
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1316276 50.1931186 124.24 237.53
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1319654 50.219526 160.99 218.79
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1333174 50.2030901 129.03 306.69
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1338807 50.2000526 126.32 276.69
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1346017 50.1960747 126.38 256.92
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1351187 50.2211322 165.07 236.94
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1367206 50.2250556 173.42 255.7
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1382347 50.2289532 174.5 255.31
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1397397 50.2324445 161.25 245.21
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1420153 50.2345902 156.56 235.4
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.144318 50.2366895 151.93 235.33
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1469381 50.2391481 152.41 235.24
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1496217 50.2415776 150.93 235.33
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1527586 50.2445404 158.31 235.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1553696 50.2469175 159.67 234.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1577993 50.2490626 161.39 234.96
+# Objects for Langenselbold Nov 2021
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 9.06846350 50.17815850 117.6054 22.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 9.06887812 50.17823563 117.5897 12.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 9.06929156 50.17834334 117.6103 13.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac 9.06978568 50.17839205 117.6448 104.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 9.06998687 50.17849642 117.6380 12.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.07028322 50.17874786 117.8869 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06961706 50.17855602 117.6069 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06930997 50.17852965 117.6011 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06901608 50.17848550 117.5989 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06885235 50.17840445 117.5883 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06857090 50.17837758 117.5865 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06826889 50.17830604 117.5754 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06782943 50.17814175 117.5381 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06674793 50.17797745 117.4871 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06573606 50.17778196 117.3844 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06378328 50.17776083 117.5621 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06269736 50.17752500 117.4796 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06219251 50.17709115 117.0226 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.06127158 50.17674974 116.7512 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05900207 50.17606273 116.5232 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05825017 50.17555139 116.2692 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05615133 50.17479353 116.2884 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05495899 50.17428163 116.4110 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/vanwhite.ac 9.07012346 50.17821190 117.6926 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06984881 50.17781130 117.6775 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06922735 50.17760310 117.5613 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06860590 50.17739489 117.4447 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06798445 50.17718668 117.3295 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06736300 50.17697847 117.1927 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06674157 50.17677026 117.0275 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06612014 50.17656204 116.8554 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06549871 50.17635381 116.6841 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06487729 50.17614559 116.5148 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06425587 50.17593736 116.3492 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06363446 50.17572913 116.1879 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06301306 50.17552089 116.0256 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06239166 50.17531265 115.8748 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06177026 50.17510441 115.7543 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06114887 50.17489617 115.6536 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06052749 50.17468792 115.5539 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05990611 50.17447966 115.4594 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06962110 50.17808558 117.6231 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06899973 50.17787727 117.5262 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06837836 50.17766895 117.4291 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06775700 50.17746063 117.3330 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06713564 50.17725231 117.2094 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06651429 50.17704398 117.0510 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06589294 50.17683565 116.8862 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06527160 50.17662732 116.7208 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06465027 50.17641899 116.5583 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06402894 50.17621065 116.3976 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06340761 50.17600231 116.2358 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06278629 50.17579396 116.0759 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06216498 50.17558562 115.9281 27.6 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06154367 50.17537727 115.8095 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06092237 50.17516891 115.7113 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06030107 50.17496055 115.6121 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05967977 50.17475219 115.5171 27.6 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05967234 50.17476054 115.5159 28.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05991489 50.17446911 115.4506 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06962821 50.17807701 117.6221 28.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06985578 50.17780205 117.6793 28.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 9.06992846 50.17830110 117.6605 15.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 9.06965564 50.17825920 117.6384 12.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/supacat_winch.xml 9.05599496 50.17335873 115.7708 296.9 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.06184694 50.17591977 116.0449 300.0 0.0 -0.0
+# Shared objects for Gelnhausen EDFG Dec 2021
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 9.17234863 50.19864636 126.5866 3.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_30x20m.ac 9.17299247 50.19856926 126.8512 93.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/LFBI_Tower.ac 9.17360397 50.19857357 127.0259 90.8 -0.0 -0.0
+OBJECT_SHARED Models/Airport/Gliderhangar.ac 9.17472692 50.19780663 126.9168 296.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/GA_EPSW.xml 9.17438520 50.19818739 126.9075 292.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/C208Car-bluen642dg.ac 9.17466277 50.19633382 126.7730 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400_fr_reg.xml 9.17555309 50.19692476 127.1882 216.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna185.ac 9.17434981 50.19634318 126.5780 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c402c-capeair.ac 9.17379197 50.19626354 126.2287 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 9.17186986 50.19854591 126.6479 184.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac 9.17206826 50.19854666 126.6933 180.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 9.17197778 50.19855362 126.6637 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16177174 50.19589180 125.2345 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16246331 50.19596760 125.2600 189.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16315487 50.19604341 125.2606 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16384644 50.19611921 125.2587 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16453801 50.19619500 125.2567 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16522958 50.19627080 125.2566 189.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16592115 50.19634658 125.2593 189.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16661273 50.19642237 125.2618 189.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16730431 50.19649815 125.2658 189.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16799589 50.19657393 125.2931 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16868747 50.19664970 125.3594 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16937905 50.19672547 125.4422 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17007064 50.19680124 125.5253 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17076223 50.19687700 125.6304 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17145382 50.19695275 125.7890 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17214541 50.19702851 125.9813 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17283701 50.19710426 126.1749 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17352861 50.19718000 126.3773 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17422021 50.19725574 126.6156 189.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16183226 50.19567137 125.1746 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16252381 50.19574723 125.1996 189.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16321536 50.19582309 125.1978 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16390690 50.19589895 125.1905 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16459845 50.19597481 125.1846 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16529000 50.19605067 125.1811 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16598156 50.19612652 125.1784 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16667311 50.19620236 125.1766 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16736467 50.19627821 125.1757 189.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16805623 50.19635405 125.1996 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16874779 50.19642989 125.2658 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16943936 50.19650572 125.3496 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17013093 50.19658155 125.4342 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17082249 50.19665737 125.5407 189.7 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17151406 50.19673319 125.7072 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17220564 50.19680901 125.9117 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17289721 50.19688482 126.1166 189.7 0.0 -0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17358879 50.19696063 126.3330 189.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17428037 50.19703643 126.5924 189.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17300948 50.19797284 126.5619 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17232189 50.19788335 126.3990 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17163430 50.19779386 126.2357 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17094672 50.19770436 126.0733 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17025913 50.19761486 125.9308 11.5 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17292724 50.19823563 126.6739 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17223959 50.19814633 126.5170 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17155193 50.19805703 126.3581 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17086429 50.19796772 126.1995 11.5 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17017664 50.19787841 126.0595 11.5 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16126911 50.19672296 125.3741 191.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16195681 50.19681205 125.4070 191.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16264451 50.19690114 125.4393 191.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16333222 50.19699022 125.4740 191.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16401954 50.19708050 125.5071 191.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16134848 50.19645780 125.3275 191.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16203606 50.19654725 125.3572 191.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16272364 50.19663671 125.3862 191.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16341123 50.19672616 125.4164 191.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16409882 50.19681560 125.4447 191.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16143142 50.19586131 125.2118 12.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16143468 50.19584885 125.2095 9.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16148941 50.19564096 125.1534 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16149260 50.19562786 125.1496 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17445133 50.19727445 126.7018 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17444764 50.19728602 126.7036 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17450793 50.19705526 126.6848 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.17450498 50.19706660 126.6850 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 9.16778828 50.19632391 125.1759 284.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 9.16771763 50.19654377 125.2693 102.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17367790 50.19895365 127.1946 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17354061 50.19893504 127.1582 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17340332 50.19891642 127.1222 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17326604 50.19889780 127.0863 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17312875 50.19887919 127.0503 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17299146 50.19886057 127.0144 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17285417 50.19884196 126.9799 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17271688 50.19882334 126.9459 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17257960 50.19880472 126.9120 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17244231 50.19878611 126.8790 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17230502 50.19876749 126.8456 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17216773 50.19874887 126.8117 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17203045 50.19873025 126.7798 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17189316 50.19871164 126.7478 12.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17176750 50.19867615 126.7072 35.7 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17165347 50.19862379 126.6608 35.7 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17153943 50.19857143 126.6135 35.7 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17142540 50.19851908 126.5656 35.7 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17131137 50.19846672 126.5183 35.7 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17118646 50.19842919 126.4787 14.6 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17105031 50.19840747 126.4474 13.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17091292 50.19838936 126.4175 9.9 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17077454 50.19837441 126.3912 9.3 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17063561 50.19836191 126.3678 6.7 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17049587 50.19835417 126.3454 3.2 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17035565 50.19835087 126.3251 1.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17021590 50.19835575 126.3109 352.7 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.17007738 50.19836986 126.3018 349.2 0.0 --0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16994571 50.19839839 126.3026 333.4 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16982315 50.19844197 126.3123 328.5 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16970689 50.19849213 126.3263 323.5 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16959989 50.19854997 126.3462 316.1 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16950234 50.19861446 126.3719 312.0 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16941773 50.19868573 126.4032 302.4 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16933697 50.19875907 126.4342 307.9 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16925069 50.19882992 126.4634 307.9 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16916664 50.19890184 126.4933 305.7 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16908199 50.19897345 126.5227 308.6 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16899341 50.19904312 126.5533 309.7 0.0 -0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16890002 50.19911009 126.5823 313.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16880291 50.19917494 126.6053 313.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16870580 50.19923979 126.6283 313.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16860869 50.19930464 126.6532 313.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16851158 50.19936949 126.6782 313.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16839951 50.19942101 126.6931 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16827248 50.19945919 126.6984 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16814545 50.19949737 126.7037 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16801842 50.19953556 126.7095 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16789140 50.19957374 126.7143 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16776437 50.19961192 126.7182 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16763734 50.19965010 126.7231 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16751031 50.19968828 126.7279 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16738328 50.19972646 126.7314 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16725625 50.19976464 126.7348 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16712922 50.19980283 126.7393 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16700219 50.19984101 126.7433 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16687515 50.19987919 126.7487 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16674812 50.19991737 126.7508 334.8 0.0 --0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16662109 50.19995555 126.7518 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16649406 50.19999373 126.7564 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16636703 50.20003191 126.7599 334.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16624440 50.20007520 126.7657 327.4 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16612666 50.20012407 126.7753 326.7 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16600948 50.20017351 126.7858 326.5 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16589429 50.20022478 126.7980 323.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16578100 50.20027780 126.8102 323.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16566771 50.20033082 126.8225 323.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16555442 50.20038384 126.8353 323.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16544113 50.20043685 126.8471 323.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16532784 50.20048987 126.8595 323.8 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16521627 50.20054433 126.8729 321.5 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16510387 50.20059805 126.8858 325.0 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16498848 50.20064917 126.8976 325.6 0.0 -0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16486901 50.20069610 126.9042 331.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16474355 50.20073621 126.9032 335.6 0.0 --0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16461033 50.20076176 126.8919 351.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16447170 50.20077576 126.8737 351.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16433309 50.20078980 126.8487 351.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16419371 50.20079917 126.8167 357.0 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16405376 50.20079743 126.7801 5.2 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16392028 50.20074225 126.7111 47.3 0.0 --0.4
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16382662 50.20067537 126.6483 48.9 0.0 --0.4
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16375497 50.20059967 126.5880 68.6 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16372848 50.20051293 126.5352 89.2 0.0 --0.3
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16373502 50.20042335 126.4912 96.1 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16375528 50.20033453 126.4515 100.5 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16378752 50.20024721 126.4161 106.1 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16382299 50.20016033 126.3824 103.2 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16385466 50.20007281 126.3480 102.9 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16388306 50.19998486 126.3121 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16390850 50.19989652 126.2766 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16393393 50.19980817 126.2440 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16395937 50.19971983 126.2124 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16398481 50.19963149 126.1823 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16401025 50.19954314 126.1527 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16403568 50.19945480 126.1246 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16406112 50.19936646 126.0970 100.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16408656 50.19927811 126.0698 100.4 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16409167 50.19918929 126.0406 83.8 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16407633 50.19910000 126.0098 83.7 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16406073 50.19901072 125.9800 83.6 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16404479 50.19892147 125.9506 83.4 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16402853 50.19883225 125.9228 83.3 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16398339 50.19874945 125.8952 58.2 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16390432 50.19867535 125.8676 53.1 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16381824 50.19860441 125.8415 51.2 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16372920 50.19853499 125.8167 50.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16363427 50.19846896 125.7933 44.7 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16353158 50.19840779 125.7718 41.2 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16342350 50.19835056 125.7511 38.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16331063 50.19829723 125.7329 34.8 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16319090 50.19825071 125.7161 27.7 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16306640 50.19820926 125.6997 27.3 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16294154 50.19816825 125.6843 27.1 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16281652 50.19812745 125.6694 27.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16269118 50.19808705 125.6551 26.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16256515 50.19804755 125.6407 25.7 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16243782 50.19800981 125.6273 24.0 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16230882 50.19797447 125.6159 22.3 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16217759 50.19794274 125.6050 19.1 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16204348 50.19791650 125.5844 14.9 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16190643 50.19789769 125.6225 9.3 0.0 -0.6
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16177025 50.19787698 125.6776 17.5 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16163640 50.19784999 125.6595 17.5 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16150255 50.19782301 125.5969 17.5 0.0 --0.5
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16136870 50.19779603 125.5408 17.5 0.0 --0.2
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16123485 50.19776905 125.5207 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16110099 50.19774207 125.5080 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16096714 50.19771509 125.4963 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16083329 50.19768810 125.4832 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16069944 50.19766112 125.4676 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16056559 50.19763414 125.4520 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16043174 50.19760716 125.4355 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16029789 50.19758017 125.4194 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16016404 50.19755319 125.4025 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16003019 50.19752621 125.3850 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15989634 50.19749922 125.3666 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15976249 50.19747224 125.3467 17.5 0.0 --0.1
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16725602 50.19814937 125.9607 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16706657 50.19821213 125.9826 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.16706882 50.19810498 125.9325 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.17504201 50.19760208 126.9944 116.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 9.17486117 50.19786840 126.9935 120.0 0.0 -0.0

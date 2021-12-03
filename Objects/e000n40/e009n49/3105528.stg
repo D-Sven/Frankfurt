@@ -1,0 +1,254 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml 9.2094444 49.9036111 110.54 180
+OBJECT_SHARED Models/Communications/radio-tall.xml 9.2402778 49.9327778 10 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 9.039811 49.921103 152.42 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 9.2377778 49.9680556 -187.77 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.0691667 49.9763889 -212.21 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.075 49.9230556 -306.85 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.1438889 49.9647222 -291.33 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.1508333 49.9658333 -296.42 180
+OBJECT_SHARED Models/Power/generic_power_plant.xml 9.0966667 49.9688889 119.18 198.48
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0753756 49.9966133 117.45 254.23
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0762557 49.998616 117.98 254.23
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0800038 49.997818 122.07 305.69
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0832543 49.9949093 118.85 305.35
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0849583 49.9898921 114.29 139.56
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0862538 49.9921569 121.37 317.8
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0892072 49.9875638 121.97 141.1
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0911521 49.9903812 137.77 330.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0926879 49.9858552 117.91 142.64
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1065204 49.9902907 129.7 225.03
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1067837 49.9900614 128.67 226.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1093349 49.9921023 142.14 225.03
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1096074 49.9919886 141.43 226.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1321667 49.9014263 116 298.87
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1341138 49.8991514 116.3 298.87
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1842717 49.9139406 144.35 92
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1842995 49.913429 142.45 117.21
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1856078 49.9127808 146.68 137.89
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1868662 49.9119228 158.88 134.37
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1880136 49.9111934 161.68 139.72
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1889971 49.9107344 155.37 147.12
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.1900626 49.910341 159.98 150.17
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.089499 49.973564 110.56 189.78
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.1228194 49.9543835 112.51 258.22
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.1261534 49.9559879 110.78 88.85
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.1297624 49.9584566 108.87 240.51
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.1391923 49.9758719 113.12 139.62
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.1402854 49.9747014 115.62 173.94
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.1409818 49.9725671 107.77 180.93
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.142143 49.905933 113.47 102.28
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.142301 49.909565 115.28 216.08
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.142562 49.904137 115.91 10.36
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.143087 49.913139 115.36 17.45
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.144389 49.900703 117.65 283.76
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.147428 49.897652 112.29 119.56
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.153709 49.894112 115.99 254.99
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.157134 49.892536 113.48 187.24
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.161693 49.889317 116 49.92
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.163915 49.884281 116.7 228.05
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.108965 49.943451 114.46 83.32
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.109835 49.94759 116.02 184.16
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.121395 49.977905 110.92 307.29
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1218737 49.9536187 112.62 102.11
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1275 49.956116 112 238.56
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1294171 49.9776423 109.81 258.68
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1303237 49.9581494 111.29 237.3
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1327609 49.9615279 111.5 120.03
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1348029 49.9770284 121.55 169.39
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.143107 49.904217 114.28 234.77
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.143634 49.913078 113.96 162.79
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.146248 49.899319 114.76 160.41
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.160614 49.891014 118.38 11.25
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.1638667 49.8869825 117.04 145.54
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.163929 49.887001 117.19 67.2
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.164489 49.884285 116.5 111.72
+OBJECT_STATIC aschaffenburg_johannisburg_castle.ac 9.1428359 49.9762604 134.64 90
+# Shared objects for Segelfluggelaende Altenbachtal Nov 2021
+OBJECT_SHARED Models/Airport/Hangar_30_18.ac 9.15230924 49.92230352 128.6663 116.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/vanwhite.ac 9.15135205 49.92222772 127.5530 216.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/pickupred1.ac 9.15133953 49.92218672 127.5094 216.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramred.ac 9.15160050 49.92197600 127.3928 204.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15195702 49.92196747 127.6177 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15230381 49.92207652 128.0891 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15179593 49.92215864 127.8283 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15200959 49.92235600 128.3067 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.15170968 49.92234664 128.0516 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15435278 49.92188486 128.3249 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15500283 49.92204790 128.7902 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15565288 49.92221094 129.2529 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15630293 49.92237397 129.7165 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15695299 49.92253701 130.1805 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15760306 49.92270004 130.6307 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15825313 49.92286306 131.0295 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15890320 49.92302609 131.3950 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15955328 49.92318911 131.7624 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16020336 49.92335212 132.1307 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16085345 49.92351513 132.4979 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16150322 49.92367867 132.8801 201.4 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15420985 49.92213685 128.9781 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15486001 49.92229971 129.4165 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15551018 49.92246256 129.8548 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15616035 49.92262541 130.2959 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15681053 49.92278826 130.7369 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15746071 49.92295110 131.1647 201.3 0.0 -0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15811089 49.92311394 131.5538 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15876108 49.92327678 131.9208 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15941128 49.92343961 132.2872 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16006147 49.92360244 132.6550 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16071168 49.92376526 133.0247 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16136188 49.92392809 133.4006 201.3 0.0 -0.4
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16150814 49.92366771 132.8514 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.16135598 49.92393861 133.4221 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15403054 49.92180615 128.0984 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15403794 49.92179423 128.0615 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15389328 49.92205629 128.7599 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.15388821 49.92206902 128.7971 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.15358854 49.92221200 129.0402 0.0 0.0 -0.0
+# Shared Objects for Aschaffenburg EDFC Dec 2021
+OBJECT_SHARED Models/Airport/Eshott_hangar_2.ac 9.05622669 49.93898825 125.9913 133.7 0.0 --0.9
+OBJECT_SHARED Models/Airport/Eshott_hangar_2.ac 9.05653481 49.93920857 126.3756 135.8 0.0 --0.9
+OBJECT_SHARED Models/Airport/Hangar_30_18.ac 9.05551400 49.93904572 126.6438 227.2 -0.4 -0.0
+OBJECT_SHARED Models/Airport/LFBI_Tower.ac 9.05584107 49.93863402 125.4380 103.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/Gliderhangar.ac 9.06458726 49.94052557 124.7948 289.2 0.0 -0.3
+OBJECT_SHARED Models/Airport/Gliderhangar.ac 9.06394039 49.94078019 125.3198 289.6 0.0 -0.5
+OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 9.06399276 49.94001131 125.1202 200.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Gliderhangar.ac 9.06416286 49.94037922 124.8894 109.8 0.0 --0.6
+OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 9.06198910 49.94006473 125.9552 20.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 9.06206331 49.94019553 126.3750 108.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 9.06204875 49.94025192 126.4824 291.1 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c402c-capeair.ac 9.06391603 49.93989344 125.0849 200.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-blue.xml 9.06358831 49.94047592 125.5448 288.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400.xml 9.05886135 49.93903996 125.3694 15.6 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/PiperCherokee140.ac 9.05664835 49.93918313 126.2628 228.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/PiperWarriorII.ac 9.05617655 49.93861108 125.0096 40.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/R3000.xml 9.05868028 49.93901103 125.3429 14.5 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna185.ac 9.05630523 49.93850745 124.7914 36.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/lfga-refuel.xml 9.05699924 49.93887618 125.6291 124.0 0.0 --1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06761475 49.93912471 123.0045 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06693124 49.93903403 123.2277 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06624773 49.93894334 123.4510 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06556422 49.93885265 123.6752 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06488072 49.93876196 123.8994 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06419722 49.93867126 124.1249 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06351372 49.93858056 124.3507 11.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06283023 49.93848985 124.4559 11.7 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06214674 49.93839914 124.3838 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06146325 49.93830843 124.2539 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06077976 49.93821771 124.1240 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06009627 49.93812699 123.9944 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05941279 49.93803627 123.8652 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05872931 49.93794554 123.7369 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05804583 49.93785481 123.6222 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06753953 49.93937103 122.9914 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06685602 49.93928034 123.2398 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06617251 49.93918964 123.4885 11.6 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06548901 49.93909893 123.7372 11.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06480552 49.93900818 123.9862 11.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06412204 49.93891740 124.2346 11.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06343857 49.93882663 124.4835 11.7 0.0 -0.3
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06275509 49.93873587 124.6106 11.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06207161 49.93864508 124.5546 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06138816 49.93855425 124.4364 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06070472 49.93846337 124.3187 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06002129 49.93837247 124.2032 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05933787 49.93828153 124.0892 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05865448 49.93819052 123.9731 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.05797111 49.93809943 123.8662 11.7 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06001120 49.93893014 125.0499 139.8 0.0 --0.6
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06022429 49.93881407 124.8615 139.8 0.0 --0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06043737 49.93869801 124.6924 139.8 0.0 --0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06039574 49.93897017 125.0806 128.3 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06059251 49.93884460 124.8824 142.2 0.0 --0.5
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06083394 49.93875878 124.7608 160.0 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06421422 49.93924099 124.7088 233.3 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06436490 49.93939172 124.7066 241.2 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06444579 49.93955984 124.7233 264.4 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06454876 49.93931164 124.6150 262.1 0.0 -0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06466212 49.93948231 124.6148 240.4 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.06482627 49.93962612 124.5620 227.0 0.0 --0.2
+OBJECT_SHARED Models/Transport/motorhome.ac 9.05609480 49.94003820 128.4454 227.5 0.0 -0.0
+OBJECT_SHARED Models/Transport/minibuswhite1.ac 9.05600050 49.93996097 128.3756 316.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/pickupwhite1.ac 9.05605506 49.93999180 128.4193 320.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.05742498 49.93973424 127.3679 316.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.05758291 49.93963425 127.0693 316.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 9.05762243 49.93960890 126.9879 313.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05548030 49.93898354 126.1970 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05530909 49.93888353 126.0420 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.05510621 49.93896562 126.3385 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml 9.05549217 49.93982221 128.0757 313.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml 9.05753011 49.93998535 129.6497 38.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml 9.06277017 49.94155799 126.8957 110.9 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml 9.06152172 49.94047478 126.4309 20.6 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 9.05499715 49.93934181 127.2649 45.5 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05515378 49.93925627 126.9998 316.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05557166 49.93901292 126.2243 137.5 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05567455 49.93895223 126.0341 137.5 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05577745 49.93889153 125.8466 137.5 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05587301 49.93882638 125.6545 129.2 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05595781 49.93861620 125.1544 102.1 0.0 --1.0
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05598711 49.93852837 124.9566 102.1 0.0 --1.3
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05601642 49.93844054 124.7473 102.1 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05604573 49.93835272 124.5814 102.1 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05633432 49.93816969 124.1804 141.7 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05688219 49.93789148 123.6915 141.7 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05743032 49.93761348 123.8728 141.8 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05804613 49.93752034 124.2012 191.8 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05872936 49.93761184 124.1484 191.8 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05941259 49.93770333 123.9509 191.8 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06009582 49.93779482 123.8203 191.8 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06077906 49.93788630 124.0455 191.8 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06146211 49.93797835 124.2477 191.9 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06214498 49.93807097 124.1241 191.9 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06282785 49.93816357 124.0244 191.9 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06351073 49.93825616 124.1565 191.9 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06419362 49.93834874 124.3856 191.9 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06487650 49.93844132 124.5625 191.9 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06555939 49.93853389 124.4843 191.9 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06624229 49.93862645 124.1746 191.9 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06692518 49.93871902 123.7759 191.9 0.0 --0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06760808 49.93881157 123.2825 191.9 0.0 --0.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06829098 49.93890413 122.7444 191.9 0.0 --0.6
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06867556 49.93898572 122.4004 231.8 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06865172 49.93924144 122.3247 281.1 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06851779 49.93968224 122.3227 281.1 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06838386 49.94012305 122.3260 281.1 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06797600 49.94029549 122.5502 12.3 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06729421 49.94019954 123.0036 12.3 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06661243 49.94010359 123.4705 12.3 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06593064 49.94000764 123.9276 12.3 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06552110 49.93995157 124.1940 10.4 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06538381 49.93993538 124.2767 10.4 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06520144 49.94013961 124.3812 289.0 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06497401 49.94056425 124.5303 289.0 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06474657 49.94098888 124.7061 289.0 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06451913 49.94141352 124.9038 289.0 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06429169 49.94183816 125.1742 289.0 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06386269 49.94195421 126.0371 25.4 0.0 -1.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06323213 49.94176168 127.2918 25.4 0.0 -1.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06260159 49.94156915 128.1738 25.4 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06197104 49.94137661 128.3127 25.4 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06158907 49.94126713 128.3918 17.1 0.0 -3.0
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06145566 49.94124072 128.9014 17.1 0.0 -2.8
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06135863 49.94118706 128.6902 64.2 0.0 --5.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06144582 49.94093514 127.8368 109.7 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06168086 49.94051222 127.0585 109.7 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06191589 49.94008930 126.3548 109.7 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 9.06208011 49.93979319 125.9007 109.5 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.06214689 49.93966552 125.5940 106.7 0.0 --2.0
+OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 9.06217247 49.93961424 125.4397 113.2 0.0 -1.3
+OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 9.06218347 49.93959773 125.4849 113.2 0.0 -1.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06184855 49.93954016 125.5364 12.7 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06116770 49.93944152 125.6534 12.7 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.06048685 49.93934287 125.7156 12.7 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05980600 49.93924423 125.6669 12.7 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05912516 49.93914558 125.5893 12.7 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 9.05864845 49.93907688 125.5271 12.5 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 9.05844351 49.93904942 125.4891 10.4 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05816143 49.93921900 125.9243 307.7 0.0 -1.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05773503 49.93957457 126.8871 307.6 0.0 -1.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05730942 49.93993054 127.8972 307.5 0.0 -1.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05675113 49.94013940 128.5797 352.1 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 9.05626604 49.94016617 128.7692 2.6 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05587132 49.94000902 128.4984 43.0 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05536077 49.93970280 127.9450 43.0 0.0 --0.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-grayBW.xml 9.05485023 49.93939657 127.4672 43.0 0.0 --0.5

@@ -1,0 +1,156 @@
+<PropertyList>
+
+ <path>eddf_skytrain.ac</path>
+
+ <nasal>
+  <load>
+    loop_id = 0;
+
+    setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_x", 20.0);
+    setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_y", 0.0);
+    setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_a", 0.0);
+    setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_richt", 'vor');
+
+
+    train_pos = func
+               {
+               x = getprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_x");
+               if (getprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_richt") == 'vor')
+                 {
+                 x = x + 0.8;
+                 }
+                 else
+                 {
+                 x = x - 0.8;
+                 }
+               if (x &gt; 1738)
+                 {
+                 x = 1738.0;
+                 setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_richt", 'rueck');
+                 }
+               if (20 &gt; x)
+                 {
+                 x = 20.0;
+                 setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_richt", 'vor');
+                 }
+               if (736 &gt; x)
+                 {
+                 y = 0.0;
+                 alpha = 0.0;
+                 }
+               if ((x &gt; 736) and (818 &gt; x))
+                 {
+                 y = 0.21 * (x - 736);
+                 alpha = 11.71;
+                 }
+               if ((x &gt; 818) and (952 &gt; x))
+                 {
+                 y = 0.85 * (x - 818) + 17;
+                 alpha = 40.39;
+                 }
+               if ((x &gt; 952) and (1001 &gt; x))
+                 {
+                 y = 0.47 * (x - 952) + 131;
+                 alpha = 25.14;
+                 }
+               if ((x &gt; 1001) and (1061 &gt; x))
+                 {
+                 y = 0.05 * (x - 1001) + 154;
+                 alpha = 2.86;
+                 }
+               if ((x &gt; 1061) and (1165 &gt; x))
+                 {
+                 y = 157.0;
+                 alpha = 0.0;
+                 }
+               if ((x &gt; 1165) and (1254 &gt; x))
+                 {
+                 y = -0.3 * (x - 1165) + 157;
+                 alpha = -16.88;
+                 }
+               if ((x &gt; 1254) and (1397 &gt; x))
+                 {
+                 y = 130.0;
+                 alpha = 0.0;
+                 }
+               if ((x &gt; 1397) and (1453 &gt; x))
+                 {
+                 y = 0.29 * (x - 1397) + 130;
+                 alpha = 15.95;
+                 }
+               if ((x &gt; 1453) and (1565 &gt; x))
+                 {
+                 y = 146.0;
+                 alpha = 0.0;
+                 }
+               if ((x &gt; 1565) and (1611 &gt; x))
+                 {
+                 y = -0.43 * (x - 1565) + 146;
+                 alpha = -23.5;
+                 }
+               if (x &gt; 1611)
+                 {
+                 y = -0.94 * (x - 1611) + 126;
+                 alpha = -43.38;
+                 }
+               if (getprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_richt") == 'rueck')
+                 {
+                 y = y -12;
+                 }
+               setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_x", x);
+               setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_y", y);
+               setprop("/models/static/e000n50/e008n50/eddf_skytrain/train1_a", alpha);
+               }
+
+    loop = func(id) 
+           {
+           train_pos();
+           id == loop_id or return;
+           settimer(func { loop(id) }, 0.05);
+           }
+
+    loop(loop_id += 1);
+   </load>
+
+   <unload>loop_id += 1</unload>
+ </nasal>
+
+ <animation>
+  <type>translate</type>
+  <object-name>Train1</object-name>
+  <property>/models/static/e000n50/e008n50/eddf_skytrain/train1_x</property>
+  <axis>
+   <x>-1</x>
+   <y>0</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>Train1</object-name>
+  <property>/models/static/e000n50/e008n50/eddf_skytrain/train1_y</property>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>Train1</object-name>
+  <property>/models/static/e000n50/e008n50/eddf_skytrain/train1_a</property>
+  <center>
+   <x-m>1060.0</x-m>
+   <y-m>0.0</y-m>
+   <z-m>0.0</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>0</y>
+   <z>-1</z>
+  </axis>
+ </animation>
+
+</PropertyList>

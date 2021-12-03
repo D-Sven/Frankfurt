@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>eddf_blast_deflector_rw18.ac</path>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>-56.257915</x-m>
+	     <y-m>-3.698907</y-m>
+	     <z-m>5.297447</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>-89.989731</x-m>
+	     <y-m>-16.153549</y-m>
+	     <z-m>5.297447</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>85.145004</x-m>
+	     <y-m>15.183015</y-m>
+	     <z-m>5.297448</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>-21.180611</x-m>
+	     <y-m>-1.747663</y-m>
+	     <z-m>11.612721</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>34.069317</x-m>
+	     <y-m>-1.761575</y-m>
+	     <z-m>11.612721</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+  </model>
+  
+  <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>34.069317</x-m>
+	     <y-m>-3.705722</y-m>
+	     <z-m>5.297447</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+  </model>
+  
+  <model>
+	  <path>Models/Effects/RedLight10000.xml</path>
+	  <offsets>
+	     <x-m>-21.180611</x-m>
+	     <y-m>-3.699391</y-m>
+	     <z-m>5.297447</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+  </model>
+</PropertyList>

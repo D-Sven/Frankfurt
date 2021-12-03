@@ -1,0 +1,102 @@
+OBJECT_SHARED Models/Power/windturbine.xml 8.9011111 49.7075 522.61 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 8.9283333 49.6263889 269 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 8.9333333 49.6672222 288.44 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.9952778 49.6713889 -229.42 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9653564 49.6490396 347.06 127.47
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9680598 49.6467564 357.39 125.56
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9702043 49.6446705 349.06 110.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9703901 49.6436509 333.71 97.18
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9706371 49.6424576 315.95 95.14
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9707344 49.6410928 325.28 92.64
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9763593 49.6270956 327 34.4
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.978211 49.6279169 324.78 32.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9807751 49.6288751 315.6 30
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9832442 49.6297987 318.78 30.78
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.985751 49.6307961 323.79 32.45
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.988236 49.6318549 308.1 31.92
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9914227 49.6330704 278.89 32.49
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9926926 49.6502295 218.41 41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9929669 49.6503839 220.33 20.44
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9938972 49.6503825 226.46 359.87
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9942426 49.6343245 258.94 58.23
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9945212 49.65053 230.06 2.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9946194 49.6360582 247.85 81.99
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9949479 49.6505431 235.05 353.48
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9950579 49.6500698 230.95 352.85
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9976103 49.6500569 235.59 356.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9976217 49.6498614 235.88 0.72
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9995683 49.6500518 238.97 7.35
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9999767 49.6503042 241.84 6.81
+OBJECT_STATIC EDFO_Building1.ac 8.97297825 49.67788995 346.4884 276.0 0.0 -0.0
+OBJECT_STATIC EDFO_Building2.ac 8.97355107 49.67718059 347.0399 276.0 0.0 -0.0
+OBJECT_STATIC EDFO_Building3.ac 8.97228017 49.67727925 347.6947 276.0 0.0 -0.0
+OBJECT_STATIC EDFO_Building4.ac 8.97193820 49.67785860 347.5541 96.0 0.0 -0.0
+OBJECT_STATIC EDFO_Building5.ac 8.97110425 49.67743798 347.8803 276.0 0.0 -0.0
+OBJECT_STATIC EDFO_Tower.ac 8.97277790 49.67816339 346.1398 8.0 0.0 -0.0
+# Shared Objects for Michelstadt Odenwald EDFO Nov 2021
+#OBJECT_SHARED Models/Airport/Eshott_hangar_2.ac 8.97339066 49.67714018 347.5466 96.0 0.0 -0.0
+#OBJECT_SHARED Models/Airport/Eshott_hangar_1.ac 8.97233279 49.67746123 347.7933 7.4 0.0 -0.0
+#OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 8.97156610 49.67757604 348.0320 186.0 0.0 -0.0
+#OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 8.97118021 49.67755131 348.2685 185.7 0.0 -0.0
+#OBJECT_SHARED Models/Airport/hang31x21m.ac 8.97318383 49.67783411 346.4518 276.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 8.97368487 49.67807216 345.5217 8.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/small-shed.ac 8.97383071 49.67754847 346.6863 100.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_20x25m.ac 8.96977916 49.67763547 348.5997 279.3 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/virus-sw.ac 8.97149005 49.67802392 347.2578 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/PiperWarriorII.ac 8.97125254 49.67797925 347.4116 276.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c402c-capeair.ac 8.97329583 49.67806581 346.0509 144.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/lflg-grille_20m.ac 8.97347111 49.67799185 345.8728 96.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/lflg-grille_20m.ac 8.97347774 49.67798979 346.0230 348.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/lflg-grille_20m.ac 8.97343812 49.67818289 345.6045 4.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/lflg-grille_20m.ac 8.97372956 49.67819460 345.4532 4.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/lflg-grille_20m.ac 8.97376427 49.67795003 345.9428 349.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97353881 49.67803395 345.9415 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97351555 49.67812668 345.7626 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97365098 49.67778422 346.3627 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97181728 49.67744423 348.1666 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97206299 49.67740657 348.1000 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97293752 49.67729333 347.7576 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97313752 49.67724891 347.7023 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97331580 49.67723529 347.6070 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97143946 49.67740840 348.3915 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97115027 49.67739307 348.5366 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97077727 49.67735843 348.7347 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97010459 49.67729934 349.0012 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96951444 49.67733295 349.0294 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96927755 49.67740278 348.9561 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96922195 49.67754012 348.7674 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96932424 49.67750987 348.8029 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96985260 49.67735903 348.9614 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96825002 49.67750777 348.6745 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96863109 49.67753933 348.6950 0.0 0.0 -0.0
+#OBJECT_SHARED Models/Airport/LFCA-Tower-LR.ac 8.97285685 49.67813543 346.1088 187.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/lfga-refuel.xml 8.97289246 49.67810621 346.4211 280.0 -0.0 --0.9
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.97356963 49.67761695 346.7530 100.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.97172611 49.67783026 347.4896 4.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97682335 49.67933929 340.5211 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97632857 49.67931111 340.9705 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97571988 49.67928160 341.5233 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97519970 49.67923893 342.0367 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97454397 49.67920121 342.6259 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97400036 49.67915898 343.1403 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97320571 49.67909448 343.8323 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97224433 49.67901205 344.6183 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97118222 49.67890703 345.3255 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96964477 49.67879075 345.9568 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96775492 49.67863894 345.9639 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97723913 49.67939746 340.0972 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97483057 49.67921856 342.3663 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97340755 49.67911204 343.6659 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97145253 49.67894275 345.1289 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97261025 49.67904257 344.3235 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97415022 49.67917632 342.9851 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97543713 49.67927349 341.7715 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97002280 49.67882873 345.8113 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97091475 49.67887736 345.5051 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97059372 49.67884905 345.6509 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.97033566 49.67885008 345.7001 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96944101 49.67876099 346.0223 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96884114 49.67870313 346.1324 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96823009 49.67867225 346.0657 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96847733 49.67868380 346.1037 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 8.96908175 49.67872816 346.0887 0.0 0.0 -0.0

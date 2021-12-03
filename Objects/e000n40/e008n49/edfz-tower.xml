@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>edfz-tower.ac</path>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+  </animation>
+  
+  <effect>
+      <inherits-from>Effects/model-transparent</inherits-from>
+      <object-name>tower.glass</object-name>
+  </effect>
+	
+  <animation> 
+    <type>select</type> 
+    <object-name>tower.08</object-name> 
+    <condition>
+        <or>
+        <less-than-equals>
+            <property>/environment/wind-from-heading-deg</property>
+            <value>170</value>
+        </less-than-equals>
+        <and>
+        <greater-than>
+            <property>/environment/wind-from-heading-deg</property>
+    <value>350</value>
+</greater-than>
+        <less-than>
+            <property>/environment/wind-from-heading-deg</property>
+            <value>360</value>
+        </less-than>
+        </and></or>
+</condition>
+  </animation>
+	
+  <animation> 
+    <type>select</type> 
+    <object-name>tower.26</object-name> 
+    <condition><and>
+        <less-than-equals>
+            <property>/environment/wind-from-heading-deg</property>
+    <value>350</value>
+    </less-than-equals>
+        <greater-than>
+            <property>/environment/wind-from-heading-deg</property>
+    <value>170</value>
+</greater-than>
+</and>
+</condition>
+  </animation>
+
+</PropertyList>

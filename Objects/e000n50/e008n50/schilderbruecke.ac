@@ -1,0 +1,188 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "metal" rgb 0.718736 0.718736 0.718736 amb 0.718736 0.718736 0.718736 emis 0 0 0 spec 1 1 1 shi 32 trans 0
+OBJECT world
+kids 2
+OBJECT poly
+name "bogen"
+data 5
+Plane
+crease 30.000000
+numvert 16
+10 10 0
+10 10 1
+-10 10 1
+-10 10 0
+11 11 1e-06
+11 11 1.000001
+-11 11 1
+-11 11 0
+11 0 1.000001
+11 0 1e-06
+10 0 1
+10 0 0
+-11 0 0
+-11 0 1
+-10 0 0
+-10 0 1
+numsurf 12
+SURF 0x20
+mat 1
+refs 4
+0 0 0
+1 0 0
+2 0 0
+3 0 0
+SURF 0x20
+mat 1
+refs 4
+4 0 0
+7 0 0
+6 0 0
+5 0 0
+SURF 0x20
+mat 1
+refs 4
+1 0 0
+5 0 0
+6 0 0
+2 0 0
+SURF 0x20
+mat 1
+refs 4
+4 0 0
+0 0 0
+3 0 0
+7 0 0
+SURF 0x20
+mat 1
+refs 4
+0 0 0
+4 0 0
+9 0 0
+11 0 0
+SURF 0x20
+mat 1
+refs 4
+5 0 0
+1 0 0
+10 0 0
+8 0 0
+SURF 0x20
+mat 1
+refs 4
+4 0 0
+5 0 0
+8 0 0
+9 0 0
+SURF 0x20
+mat 1
+refs 4
+1 0 0
+0 0 0
+11 0 0
+10 0 0
+SURF 0x20
+mat 1
+refs 4
+7 0 0
+3 0 0
+14 0 0
+12 0 0
+SURF 0x20
+mat 1
+refs 4
+2 0 0
+6 0 0
+13 0 0
+15 0 0
+SURF 0x20
+mat 1
+refs 4
+6 0 0
+7 0 0
+12 0 0
+13 0 0
+SURF 0x20
+mat 1
+refs 4
+3 0 0
+2 0 0
+15 0 0
+14 0 0
+kids 0
+OBJECT group
+name "schild"
+kids 2
+OBJECT poly
+name "schild_0"
+data 9
+Plane.001
+crease 30.000000
+numvert 8
+8.9 13.900001 1.099994
+8.9 8.099999 1.099994
+-8.900001 8.099999 1.099994
+-8.9 13.900002 1.099994
+-8.900001 8.099999 0.999994
+-8.9 13.900002 0.999994
+8.9 13.900001 0.999994
+8.9 8.099999 0.999994
+numsurf 5
+SURF 0x00
+mat 0
+refs 4
+2 0.0 1.0
+3 0.0 0.0
+5 1.0 0.0
+4 1.0 1.0
+SURF 0x00
+mat 0
+refs 4
+3 0.0 1.0
+0 0.0 0.0
+6 1.0 0.0
+5 1.0 1.0
+SURF 0x00
+mat 0
+refs 4
+0 0.0 1.0
+1 0.0 0.0
+7 1.0 0.0
+6 1.0 1.0
+SURF 0x00
+mat 0
+refs 4
+1 0.0 1.0
+2 0.0 0.0
+4 1.0 0.0
+7 1.0 1.0
+SURF 0x00
+mat 0
+refs 4
+7 0.0 1.0
+4 0.0 0.0
+5 1.0 0.0
+6 1.0 1.0
+kids 0
+OBJECT poly
+name "schild_1"
+data 9
+Plane.001
+texture "schilderbruecke-dummy.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+8.9 13.900001 1.099994
+8.9 8.099999 1.099994
+-8.900001 8.099999 1.099994
+-8.9 13.900002 1.099994
+numsurf 1
+SURF 0x00
+mat 0
+refs 4
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0

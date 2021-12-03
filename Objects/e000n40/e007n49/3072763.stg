@@ -1,0 +1,114 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml 7.7783333 49.9930556 471.28 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.9008333 49.9527778 -350.75 180
+OBJECT_SHARED Models/Misc/generic_church_03.ac 7.8152778 49.9041667 184.73 180
+OBJECT_SHARED Models/Misc/generic_church_03.ac 7.9344444 49.9658333 101.27 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8583536 49.9973238 90.63 108.4
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8602747 49.9932028 81.74 104.14
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8619127 49.9888214 79.48 222.15
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8623778 49.9865591 79.22 147.44
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8633485 49.9843356 80.24 225.03
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8664627 49.9802005 78.47 34.29
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.871033 49.9767283 78.89 264.15
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8730552 49.9756879 78 97.8
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8755224 49.9745174 78 298.14
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8779288 49.973685 79.58 268.45
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8814678 49.9729437 79.92 358.28
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8860178 49.9726315 78.11 228.27
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.8929541 49.9722804 77.99 293.53
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.9162744 49.9754002 79.48 26.27
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.925293 49.976149 79.1 10.51
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.935976 49.975676 82.54 161.07
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.9725429 49.9791985 78.01 159.76
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.9786279 49.9812462 78.48 125.1
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.9847109 49.9834309 79 95.3
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.9909081 49.9856428 79.45 118.58
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.ac 7.997331 49.9874801 79.09 325.47
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8595869 49.9974966 82.54 80.92
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8638255 49.9866279 79.06 172.94
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8647153 49.984485 78.3 177.63
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8677082 49.9804696 80.49 295.52
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8721571 49.9772549 80.1 60.85
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8763796 49.9753925 86.45 215.19
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8784989 49.9746018 86.62 269.74
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8821875 49.9739255 87.96 54.91
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.886329 49.9735717 86.48 135.91
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8928002 49.9732596 78 235.84
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.8958578 49.9730723 77.99 29.4
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9000638 49.9726206 77.99 300.96
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9042218 49.9729058 78 190.45
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9067294 49.9735405 78.11 313.89
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9093685 49.9744589 79.31 281.22
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9140375 49.9759093 78.28 143.09
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9718653 49.9801561 78.17 138.82
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9778961 49.9821725 79.04 149.26
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9839953 49.9843744 79 232.05
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9901519 49.9865444 80.7 310.21
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.ac 7.9966 49.988415 80.59 122.21
+# Shared Objects for EDEL Langenlonsheim Nov 2021
+OBJECT_SHARED Models/Airport/Hangar_16_22.ac 7.90641425 49.90964612 88.5577 3.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_18_14.ac 7.90640658 49.90984232 88.5423 1.2 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cattle-farm.ac 7.90495883 49.90971541 84.7018 86.9 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac 7.90664587 49.90925240 88.5666 272.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90688457 49.90899769 88.5062 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90667682 49.90898635 88.5844 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90644616 49.90897915 88.6244 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90623140 49.90897109 88.6652 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90622234 49.90923283 88.6591 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90598067 49.90910045 88.6781 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90605354 49.90930811 88.6776 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90616105 49.90909929 88.6657 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90566407 49.90913632 88.6462 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90553690 49.90926464 88.6046 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90568601 49.90930949 88.6562 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90498776 49.91011627 88.1044 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90525541 49.91008307 88.3408 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90552343 49.91005088 88.5394 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 7.90579687 49.91004288 88.5844 0.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90708633 49.90954393 88.3393 10.2 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90667550 49.91070894 88.2279 12.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90716725 49.90865574 88.3978 356.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90689346 49.90778680 88.6117 341.5 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90645747 49.90695592 88.5538 341.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90600153 49.90609993 88.2794 340.9 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90567238 49.90522239 88.2641 352.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90576694 49.90436995 88.1494 16.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90642599 49.90365071 88.2923 44.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90747473 49.90304474 89.1350 52.0 -0.5 --0.1
+OBJECT_SHARED Models/Boundaries/Embankment100_wide.ac 7.90860710 49.90251040 89.4126 56.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90669465 49.90548578 88.4719 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90691242 49.90591248 88.4253 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90713020 49.90633918 88.3571 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90734798 49.90676588 88.2888 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90756577 49.90719257 88.2248 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90778356 49.90761927 88.1705 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90800135 49.90804596 88.1092 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90821915 49.90847266 88.0000 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90843695 49.90889935 87.8525 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90865476 49.90932604 87.6948 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90887257 49.90975274 87.5384 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90909039 49.91017943 87.3834 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90930821 49.91060612 87.2239 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90952603 49.91103281 87.0677 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90974386 49.91145950 86.9128 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90629366 49.90557374 88.2884 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90651186 49.90600034 88.2701 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90673008 49.90642695 88.2527 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90694829 49.90685355 88.2366 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90716651 49.90728016 88.2200 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90738473 49.90770676 88.2037 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90760296 49.90813336 88.1869 251.8 0.0 --0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90782119 49.90855997 88.1285 251.8 0.0 --0.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90803943 49.90898657 87.9826 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90825767 49.90941317 87.7965 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90847591 49.90983977 87.6118 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90869416 49.91026637 87.4221 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90891241 49.91069297 87.2324 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90913066 49.91111958 87.0435 251.8 0.0 --0.2
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.90934892 49.91154618 86.8564 251.8 0.0 --0.2
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 7.90743505 49.91140320 87.4483 228.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac 7.90760546 49.91153980 87.3051 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 7.90727211 49.91127014 87.6001 58.1 0.0 -0.0
+OBJECT_SHARED Models/Transport/motorhome.ac 7.90685306 49.90884836 88.5446 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/motorhome.ac 7.90626602 49.90883812 88.6576 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/minibuswhite1.ac 7.90657126 49.90882830 88.6050 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/biogas_plant.ac 7.90336092 49.90900960 88.5832 0.0 0.0 -0.0

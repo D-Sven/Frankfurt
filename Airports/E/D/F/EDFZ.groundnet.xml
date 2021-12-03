@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" type="gate" name="Hangar1_1" lat="N49 58.354238" lon="E8 9.153706" heading="140.000000" />
+        <Parking index="1" type="gate" name="Hangar1_2" lat="N49 58.348170" lon="E8 9.141458" heading="140.000000" />
+        <Parking index="2" type="gate" name="Hangar2" lat="N49 58.335894" lon="E8 9.131492" heading="290.000000" />
+        <Parking index="3" type="gate" name="Start_1" lat="N49 58.321993" lon="E8 9.089824" heading="53.000000" />
+        <Parking index="4" type="gate" name="Start_2" lat="N49 58.312687" lon="E8 9.099370" heading="53.000000" />
+        <Parking index="5" type="gate" name="Fuel_station_1" lat="N49 58.302728" lon="E8 9.122270" heading="147.000000" />
+        <Parking index="6" type="gate" name="Fuel_station_2" lat="N49 58.288114" lon="E8 9.137594" heading="147.000000" />
+        <Parking index="7" type="gate" name="JetPad_1" lat="N49 58.300871" lon="E8 9.050806" heading="60.000000" />
+        <Parking index="8" type="gate" name="Jet_Pad_2" lat="N49 58.287452" lon="E8 9.064661" heading="60.000000" />
+        <Parking index="9" type="gate" name="Hangar4_1" lat="N49 58.327609" lon="E8 9.022450" heading="250.000000" />
+        <Parking index="10" type="gate" name="Hangar4_2" lat="N49 58.335547" lon="E8 9.053582" heading="250.000000" />
+        <Parking index="11" type="gate" name="Apron_1" lat="N49 58.277458" lon="E8 9.028123" heading="253.000000" />
+        <Parking index="12" type="gate" name="Apron_2" lat="N49 58.284806" lon="E8 9.025186" heading="253.000000" />
+        <Parking index="13" type="gate" name="Apron_3" lat="N49 58.291681" lon="E8 9.022211" heading="253.000000" />
+        <Parking index="14" type="gate" name="Apron_5" lat="N49 58.271552" lon="E8 8.998501" heading="253.000000" />
+        <Parking index="15" type="gate" name="Apron_6" lat="N49 58.278730" lon="E8 8.995633" heading="253.000000" />
+        <Parking index="16" type="gate" name="Apron_7" lat="N49 58.285764" lon="E8 8.992315" heading="253.000000" />
+        <Parking index="17" type="gate" name="Apron_8" lat="N49 58.291637" lon="E8 8.988937" heading="253.000000" />
+        <Parking index="18" type="gate" name="Apron_9" lat="N49 58.265918" lon="E8 8.968602" heading="253.000000" />
+        <Parking index="19" type="gate" name="Apron_10" lat="N49 58.272961" lon="E8 8.964880" heading="253.000000" />
+        <Parking index="20" type="gate" name="Apron_12" lat="N49 58.286204" lon="E8 8.958103" heading="253.000000" />
+        <Parking index="21" type="gate" name="Old_apron" lat="N49 58.320409" lon="E8 8.704943" heading="226.000000" />
+        <Parking index="22" type="gate" name="Skydreamer_UL_1" lat="N49 58.300813" lon="E8 8.734393" heading="245.000000" />
+        <Parking index="23" type="gate" name="Skydreamer_UL_2" lat="N49 58.307763" lon="E8 8.771364" heading="245.000000" />
+        <Parking index="24" type="gate" name="Hangars_new" lat="N49 58.291331" lon="E8 8.932497" heading="162.000000" />
+        <Parking index="25" type="gate" name="25_Grass_parking_1" lat="N49 58.090110" lon="E8 9.252249" heading="164.000000" />
+        <Parking index="26" type="gate" name="25_Grass_parking_2" lat="N49 58.092761" lon="E8 9.272755" heading="164.000000" />
+        <Parking index="27" type="gate" name="25_Winch_launch_1" lat="N49 58.059856" lon="E8 9.304507" heading="257.330000" />
+        <Parking index="28" type="gate" name="25_Winch_launch_2" lat="N49 58.062857" lon="E8 9.323540" heading="257.330000" />
+        <Parking index="29" type="gate" name="07_Grass_parking_1" lat="N49 57.981154" lon="E8 8.543813" heading="164.000000" />
+        <Parking index="30" type="gate" name="07_Grass_parking_2" lat="N49 57.983114" lon="E8 8.560820" heading="164.000000" />
+        <Parking index="31" type="gate" name="07_Winch_launch_1" lat="N49 57.948862" lon="E8 8.538869" heading="77.320000" />
+        <Parking index="32" type="gate" name="07_Winch_launch_2" lat="N49 57.946421" lon="E8 8.523121" heading="77.320000" />
+    </parkingList>
+</groundnet>
