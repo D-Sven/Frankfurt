@@ -1,11 +1,19 @@
 # e000n40/e008n49/3089144.stg
-#Objects for EDFZ Mainz Finthen Airport added by D-SVEN on Wed 16th of Mar 2016
-#Static tower, hangar buildings by D-ECHO
+# Objects for EDFZ Mainz Finthen Airport added by D-SVEN on Wed 16th of Mar 2016
+# Static tower, hangar buildings by D-ECHO
 OBJECT_STATIC edfz-hangar.ac 8.15018876 49.97239667 224.9256 20.0 0.0 -0.0 
 OBJECT_STATIC edfz-tower.ac 8.15225711 49.97240624 224.0460 37.9 0.0 -0.9
-#New base aiport objects
+OBJECT_SHARED Models/Airport/Vehicle/EDDT-FollowMe.ac 8.15209675 49.97252331 222.5751 215.3 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.15188381 49.97251680 225.7651 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.15191070 49.97253303 225.7238 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.15190622 49.97249856 225.7648 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.15193500 49.97251443 225.7221 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.15195130 49.97245813 225.7681 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.15198238 49.97247502 225.7223 0.0 0.0 -0.0
+# New base aiport objects
 OBJECT_SHARED Models/Airport/windsock_lit.xml 8.15229287 49.97219565 228.7933 0.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/TOOLHOUSE.ac 8.15128266 49.97233564 223.1399 331.9 0.0 -0.0
+#OBJECT_SHARED Models/Airport/TOOLHOUSE.ac 8.15128266 49.97233564 223.1399 331.9 0.0 -0.0 
+OBJECT_STATIC EDFZ_Wasserhaus.ac 8.15118942 49.97237920 223.0186 18.9 0.0 -0.0
 OBJECT_STATIC EDFZ_new_hangar_building.ac 8.14681895 49.97185387 225.6446 20.0 0.0 -0.5
 OBJECT_STATIC EDFZ_new_hangars.ac 8.14689622 49.97171158 225.9242 21.5 0.0 -0.6
 OBJECT_STATIC EDFZ_new_hangars.ac 8.14703437 49.97147001 226.1081 20.4 0.0 -0.6
@@ -17,19 +25,22 @@ OBJECT_STATIC EDFZ_old_tower.ac 8.14572568 49.97205027 225.7770 111.0 0.4 -0.6
 OBJECT_STATIC EDFZ_gliderhangar.ac 8.15187740 49.97261298 222.5918 126.8 0.0 -0.0
 OBJECT_STATIC EDFZ_glider_workshop.ac 8.15215566 49.97286015 222.2840 38.0 0.0 -1.0
 OBJECT_STATIC EDFZ_fuel_station.ac 8.15202895 49.97185606 223.2805 33.0 0.0 -0.0
-#Fuel station
-#some sheep
+# Fuel station
+# some sheep
 OBJECT_SHARED Models/Fauna/sheep.ac 8.15247327 49.97051772 224.6191 0.0 0.0 -0.0
 OBJECT_SHARED Models/Fauna/sheep.ac 8.15245043 49.97051909 224.6408 288.0 0.0 -0.0
 OBJECT_SHARED Models/Fauna/sheep.ac 8.15245961 49.97051262 224.6332 332.0 0.0 -0.0
-#New signs placed Apr 2020
+# New signs placed Apr 2020
 OBJECT_SIGN {@Y2}07{^r} 8.15164984 49.97115689 224.1543 180.0 0.0 -0.0
 OBJECT_SIGN {@Y2}07{^r} 8.14575129 49.97013546 227.7557 180.0 0.0 -0.0
 OBJECT_SIGN {@R1}PLATZRUNDE_EINHALTEN{safety}{@R}25 8.15338691 49.97085669 223.443 280.0 0.0 -0.0
 OBJECT_SIGN {@R1}PLATZRUNDE_EINHALTEN{safety}{@R}07 8.14141305 49.96845378 229.1979 200.0 0.0 -0.0
 OBJECT_SIGN {@R1}25-07{safety} 8.14623751 49.96930099 228.2122 200.0 0.0 -0.0
 OBJECT_SIGN {@Y1}APRON{^r} 8.14621664 49.97011575 227.6269 20.0 0.0 -0.0
-#Ground markers grass runway using fencemaker
+# PAPIs 25 and 07
+OBJECT_SHARED Models/Airport/PAPI2.ac 8.15288834 49.96975005 224.2196 194.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/PAPI2.ac 8.14226224 49.96848718 228.9275 14.0 0.0 -0.0
+# Ground markers grass runway using fencemaker
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15469213 49.96792829 225.0473 12.6 0.0 -0.5
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15367018 49.96778054 225.6520 12.7 0.0 -0.5
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.15298906 49.96768152 226.0549 12.7 0.0 -0.5
@@ -93,8 +104,8 @@ OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14233417 49.
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14233754 49.96592506 230.1204 12.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14226610 49.96612836 230.1119 14.4 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 8.14226985 49.96611819 230.1123 12.0 0.0 -0.0
-#Glider equipment
-#Cones to grass runway and blocking disused areas
+# Glider equipment
+# Cones to grass runway and blocking disused areas
 OBJECT_SHARED Models/Boundaries/Cone.ac 8.15098184 49.96786152 226.9347 232.6 0.0 --0.5
 OBJECT_SHARED Models/Boundaries/Cone.ac 8.15166081 49.96843225 226.2368 232.6 0.0 --0.5
 OBJECT_SHARED Models/Boundaries/Cone.ac 8.15233980 49.96900298 225.4785 232.6 0.0 --0.6
@@ -114,23 +125,41 @@ OBJECT_SHARED Models/Boundaries/Cone.ac 8.14698581 49.97109449 226.5087 0.0 0.0 
 OBJECT_SHARED Models/Boundaries/Cone.ac 8.14730637 49.97058804 226.8535 0.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Cone.ac 8.14681647 49.97050040 227.1163 0.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Cone.ac 8.14772474 49.97045922 226.7910 0.0 0.0 -0.0
-#Cones blocking disused taxiway and mark taxiway to grass runway
-#Trees
-#Aircraft
+# Cones blocking disused taxiway and mark taxiway to grass runway
+# Trees
+# Aircraft
 OBJECT_SHARED Models/Aircraft/virus-sw.ac 8.15173990 49.97209690 223.1981 32.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.xml 8.14961889 49.97202495 224.3602 108.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/DR400-red.xml 8.15030153 49.97163422 224.4392 288.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/c402c-capeair.ac 8.14933624 49.97132564 225.2261 197.9 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/ask21-blue.xml 8.15566356 49.96769388 224.7930 48.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/DR400-red.xml 8.15489365 49.96824268 224.7054 8.0 0.0 -0.0
-#Take this TV-Tower as a landmark for approaching EDFZ
+OBJECT_SHARED Models/Aircraft/c172-bluen108av.ac 8.15264503 49.97246554 222.3598 168.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 8.15355710 49.97205461 222.2936 28.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac 8.15366127 49.97194920 222.3654 22.4 0.0 -0.0
+# Take this TV-Tower as a landmark for approaching EDFZ
 OBJECT_SHARED Models/Communications/fernmeldeturm_gruenwettersbach.xml 8.171361 49.942235 234.7120 0.0 0.0 -0.0
 OBJECT_SHARED Models/Industrial/logistic.ac 8.145271 49.956064 236.2666 0.0 0.0 -0.0
 OBJECT_SHARED Models/Communications/fernmeldeturm_waldenbuch.xml 8.13391829 50.10897104 636.0143 0.0 0.0 -0.0
-#Added a strobe10000 to make EDFZ more visible from the distance
-OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.xml 8.15207559 49.97245676 236.1000 8.0 0.0 -0.0
-OBJECT_SHARED Models/Effects/strobe10000.xml 8.15207590 49.97245903 242.2684 0.0 0.0 -0.0
-#Objects for Mainz-Layenhof bordering the airport
+# Added a strobe10000 to make EDFZ more visible from the distance
+OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.xml 8.15201215 49.97250629 236.1000 8.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/strobe10000.xml 8.15201215 49.97250629 242.2684 0.0 0.0 -0.0
+# Red beacons mark edges of buildings
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15194772 49.97251469 236.7347 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15201140 49.97246134 236.7711 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15208816 49.97249981 236.6558 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15202350 49.97255292 236.6453 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.14723548 49.97111795 232.1791 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.14776513 49.97124370 232.1808 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.14942650 49.97207245 235.3136 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15031152 49.97228565 236.4236 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15101793 49.97245076 239.8474 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15023356 49.97225553 236.8740 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.14685667 49.97177317 236.5236 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.14739120 49.97189963 236.2635 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15191212 49.97255481 232.3490 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.15197044 49.97258374 232.2420 0.0 0.0 -0.0
+# Objects for Mainz-Layenhof bordering the airport
 OBJECT_SHARED Models/Military/SPAF_Barracks_2.xml 8.15068084 49.97332575 223.7822 109.8 0.0 -0.0
 OBJECT_SHARED Models/Military/SPAF_Barracks_2.xml 8.15185019 49.97314515 223.5574 36.0 0.0 -0.0
 OBJECT_SHARED Models/Military/SPAF_Barracks_1.xml 8.15007740 49.97296623 224.3822 20.0 0.0 -0.0
@@ -171,14 +200,14 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 8.14655463 49.97463726 222.1594 
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.14669957 49.97520825 221.1121 48.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/hatchback_green.ac 8.14730177 49.97455848 222.3698 48.0 0.0 -0.0
 OBJECT_SHARED Models/Industrial/Storage_30x12.ac 8.14479916 49.97380461 223.3412 20.0 0.0 -0.0
-#Objects for military training area southeast of the field
+# Objects for military training area southeast of the field
 #OBJECT_SHARED Models/Military/SPAF_Barracks_3.xml 8.16178069 49.96785328 226.8114 0.0 0.0 -0.0
 #OBJECT_SHARED Models/Military/SPAF_Barracks_3.xml 8.16214037 49.96741053 226.4841 0.0 0.0 -0.0
 #OBJECT_SHARED Models/Military/SPAF_Barracks_3.xml 8.16077381 49.96776131 224.7348 0.0 0.0 -0.0
 #OBJECT_SHARED Models/Military/SPAF_Barracks_3.xml 8.16095104 49.96813234 224.3549 0.0 0.0 -0.0
 #OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 8.16126975 49.96788970 225.2279 0.0 0.0 -0.0
 #OBJECT_SHARED Models/Military/concrete_army_shelter.ac 8.16049758 49.96964377 220.4802 104.0 0.0 -0.0
-#Streetlamps for Layenhof
+# Streetlamps for Layenhof
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.15206541 49.97290274 223.6986 212.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.15004008 49.97268795 224.6652 192.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14835420 49.97230581 225.4538 192.0 0.0 -0.0
@@ -198,7 +227,7 @@ OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14658853 49.97583178 219.
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14766755 49.97527462 221.0872 312.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14869001 49.97484590 221.9384 312.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 8.14637447 49.97267720 225.2094 288.0 0.0 -0.0
-#New fences using fencemaker
+# New fences using fencemaker
 OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml 8.15173970 49.97226281 223.0804 32.0 0.0 -0.0
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 8.15183537 49.97214692 223.1055 121.3 0.0 -0.2
 OBJECT_SHARED Models/Boundaries/Fence-10m-grayBW.xml 8.15193668 49.97209213 223.1062 158.5 0.0 --0.2
@@ -381,3 +410,56 @@ OBJECT_SHARED Models/Boundaries/Fence-20m-grayBW.xml 8.14328839 49.97544529 220.
 OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 8.14343123 49.97548170 220.7618 202.2 0.0 --0.3
 OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 8.14345709 49.97548849 220.7500 202.2 0.0 --0.4
 OBJECT_SHARED Models/Boundaries/Fence-2m-grayBW.xml 8.14348295 49.97549529 220.7392 202.2 0.0 --0.3
+# Uniklinik Mainz 
+OBJECT_STATIC Uni_Mainz_helipad.ac 8.25471865 49.99361013 124.2872 120.1 -0.0 -0.0
+OBJECT_STATIC Unimedizin_Mainz.ac 8.25543774 49.99238139 126.4595 214.1 0.3 -0.0
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.25476491 49.99388041 146.3625 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25447522 49.99418751 140.9830 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25448633 49.99411853 140.9886 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25458727 49.99406818 140.9873 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25455772 49.99424899 140.9657 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25471624 49.99426355 140.9928 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25483894 49.99417698 140.9394 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25488496 49.99405271 140.9920 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25489159 49.99394930 140.9485 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25476078 49.99391860 140.9919 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25467743 49.99391163 140.9982 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25437190 49.99398479 140.9395 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25450740 49.99383710 140.9892 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25447937 49.99402666 140.9475 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25444083 49.99391005 140.9505 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25470771 49.99425806 140.8685 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25474799 49.99422438 140.8749 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25479000 49.99417684 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25483016 49.99413304 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25477191 49.99411318 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25470165 49.99408521 140.8683 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25462086 49.99405655 140.8683 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25458129 49.99410189 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25454331 49.99414266 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25464783 49.99423678 140.8685 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25458182 49.99421239 140.8685 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 8.25450733 49.99418421 140.8685 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25466600 49.99415822 140.8684 359.5 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25468860 49.99413142 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25461986 49.99414088 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25470829 49.99417483 140.8684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25464172 49.99418451 140.8684 0.1 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25466384 49.99386542 140.8682 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25460509 49.99392922 140.8682 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25453163 49.99390035 140.8682 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/taxilampgreen.xml 8.25458766 49.99383746 140.8682 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25453493 49.99323661 145.9519 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25435048 49.99315508 145.9618 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25454216 49.99380981 146.4854 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25472057 49.99361409 146.4690 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25487781 49.99367303 146.5022 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25477274 49.99389643 146.4283 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25480333 49.99274752 149.7212 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25517427 49.99290281 149.7906 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25543139 49.99238355 146.5606 0.0 0.0 -0.0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 8.25524545 49.99230246 146.5770 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.25441893 49.99322744 148.1190 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/EC-135_ADAC.xml 8.25468011 49.99376832 140.8716 300.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/RTW_Sprinter_515_BL.xml 8.25545407 49.99322233 126.8516 214.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/RTW_Sprinter_515.xml 8.25566031 49.99302426 127.2197 214.5 0.0 -0.0

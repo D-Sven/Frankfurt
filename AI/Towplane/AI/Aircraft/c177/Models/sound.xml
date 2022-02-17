@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PropertyList>
+  
+  <fx>
+    <engine>
+      <name>engine</name>
+      <mode>looped</mode>
+      <path>wasp.wav</path>
+      <property>velocities/true-airspeed-kt</property>
+      <volume>
+	<offset>-0.80</offset>
+      </volume>
+      <reference-dist>150.0</reference-dist>
+      <max-dist>3500.0</max-dist>
+    </engine>
+  </fx>
+  
+  </PropertyList>

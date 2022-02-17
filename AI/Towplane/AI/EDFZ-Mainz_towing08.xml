@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+
+  <name>Aerotow EDFZ 08 Grass</name>
+  <description>
+     AI-scenario to simulate the aerotow procedure from runway 08R at EDFZ by D-SVEN (Sven Seipp, Apr 2020)
+  </description>
+
+  <entry>
+   <callsign>Towplane_EDFZ_08</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>AI/Aircraft/c177/c177-D-EMAI.xml</model>
+   <flightplan>FP_EDFZ_towing08.xml</flightplan>
+   <repeat>0</repeat>
+  </entry>
+
+ </scenario>
+
+</PropertyList>

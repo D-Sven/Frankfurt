@@ -1,0 +1,563 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+  <name>Thermals around of POHL (EDER to EDFZ)</name>
+  <description>
+     In der FGFS internen Map kann unter dem gesetzten Haekchen Traffic
+	 die Thermik als schwarzer Diamant gesehen und angeflogen
+	 werden. Wenn: ab der Version 2018.x.x im Start Setup unter 
+	 Settings/Additional-settings 
+	 --ai-scenario=thermal_demo_POHL2
+	 --ai-scenario=EDFZ_thermals
+	 eintragen. Nach dem Start wird eine Vielzahl von nutzbarer Thermik
+	 angezeigt (oestlich bis EDGS, westlich bis zur Wasserkuppe EDER,
+	 suedlich bis EDFZ(im Nahbereich), noerdlich bis ETHF Fritzlar)
+
+     Dave Culp,first realisation davidculp2 at comcast.net
+     updated by D-ABBA
+  </description>
+ 
+<!-- ########################################## -->
+<!-- THERMALS                                   -->
+<!-- ########################################## -->
+
+  <entry>
+   <!-- Location:  Pohlheim Hausen 8.61858401 50.43538583 -->
+   <type>thermal</type>
+   <latitude>50.4353</latitude>
+   <longitude>8.6185</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+    <!-- Location: LICH eastern of POHL 8.81526645 50.51239764  -->
+   <type>thermal</type>
+   <latitude>50.51239</latitude>
+   <longitude>8.81526</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>7000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location: Pohlheim Grueningen   8.73622485 50.54231060 -->
+   <type>thermal</type>
+   <latitude>50.5423</latitude>
+   <longitude>8.7362</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDFL Center of airport 8.72964988 50.51057161 -->
+   <type>thermal</type>
+   <latitude>50.5105</latitude>
+   <longitude>8.7296</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  ED06 Butzbach Pfingsweide 8.58987086 50.54353938  -->
+   <type>thermal</type>
+   <latitude>50.5435</latitude>
+   <longitude>8.5898</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location: EDFP LFC Ober Moerlen 8.71390218 50.36115959 -->
+   <type>thermal</type>
+   <latitude>50.3611</latitude>
+   <longitude>8.71390</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+   <entry>
+   <!-- Location:  Marburg south Fronhausen 8.69642952 50.69708526 -->
+   <type>thermal</type>
+   <latitude>50.6970</latitude>
+   <longitude>8.6964</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry> 
+
+  <entry>
+   <!-- Location: Marburg Coelbe 8.71189847 50.36065348 -->
+   <type>thermal</type>
+   <latitude>50.36065</latitude>
+   <longitude>8.71189</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  Allendorf Eder Stadt 8.66237641 51.02449138 -->
+   <type>thermal</type>
+   <latitude>51.02449</latitude>
+   <longitude>8.662376</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location:  EDFQ Northeast Platzrunde 8.66826845 51.05196303 -->
+   <type>thermal</type>
+   <latitude>51.05196</latitude>
+   <longitude>8.6682684</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>  
+
+  <entry>
+   <!-- Location:  Giessen Biebertal 8.59307282 50.63771840 -->
+   <type>thermal</type>
+   <latitude>50.6377</latitude>
+   <longitude>8.59307</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>9500.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  Wetzlar Steinbruch Herrmannstein 8.50399709 50.58591345 -->
+   <type>thermal</type>
+   <latitude>50.58591</latitude>
+   <longitude>8.503997</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry> 
+  
+  <entry>
+   <!-- Location:  Greifenstein 8.28621223 50.62375727 -->
+   <type>thermal</type>
+   <latitude>50.623757</latitude>
+   <longitude>8.2862</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 1 8.42025564 50.92948213 -->
+   <type>thermal</type>
+   <latitude>50.9294</latitude>
+   <longitude>8.42025</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 2 8.08195277 50.71203970 -->
+   <type>thermal</type>
+   <latitude>50.7120</latitude>
+   <longitude>8.08195</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>  
+  
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 3 8.07506673 50.70305419 -->
+   <type>thermal</type>
+   <latitude>50.70305</latitude>
+   <longitude>8.07506</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>  
+  
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 4 8.12833449 50.70275296 -->
+   <type>thermal</type>
+   <latitude>50.7027</latitude>
+   <longitude>8.12833</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 5 8.31867402 50.83163934 -->
+   <type>thermal</type>
+   <latitude>50.83163</latitude>
+   <longitude>8.318674</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 6 8.41443252 50.79174165 -->
+   <type>thermal</type>
+   <latitude>50.79174</latitude>
+   <longitude>8.414432</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ <entry>
+   <!-- Location:  Breitscheid EDFQ 7 8.45443842 51.11584405 -->
+   <type>thermal</type>
+   <latitude>51.11584</latitude>
+   <longitude>8.45443</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ <entry>
+   <!-- Location:  EDFP nach EDFQ ueber Vogelsberg 1 9.07915031 50.47225286 -->
+   <type>thermal</type>
+   <latitude>50.47225</latitude>
+   <longitude>9.07915</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>  
+  
+  <entry>
+   <!-- Location:  EDFP nach EDFQ ueber Vogelsberg 2 8.98567101 50.74803329 -->
+   <type>thermal</type>
+   <latitude>50.74803</latitude>
+   <longitude>8.98567</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDFP nach EDFQ ueber Vogelsberg 3 9.20657076 50.51351250 -->
+   <type>thermal</type>
+   <latitude>50.51351</latitude>
+   <longitude>9.20657</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDFP nach EDFQ ueber Vogelsberg 4 8.88659785 50.39077441 -->
+   <type>thermal</type>
+   <latitude>50.390774</latitude>
+   <longitude>8.88659</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location:  EDFP nach EDFQ ueber Vogelsberg 5 8.97946550 51.06473095 -->
+   <type>thermal</type>
+   <latitude>51.06473</latitude>
+   <longitude>8.979465</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDFP nach EDFQ ueber Vogelsberg 6 8.72459985 50.89727606 -->
+   <type>thermal</type>
+   <latitude>50.897276</latitude>
+   <longitude>8.72459</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDFQ nach EDTH(sued) Thermal 1 9.94153842 50.49918330 -->
+   <type>thermal</type>
+   <latitude>50.499183</latitude>
+   <longitude>9.94153</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location:  EDTH nach EDEN(sued) Thermal 2 9.71355396 50.85507781 -->
+   <type>thermal</type>
+   <latitude>50.8550778</latitude>
+   <longitude>9.71355</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDEN(sued) nach EDER Thermal 3 9.66828058 50.89903209 -->
+   <type>thermal</type>
+   <latitude>50.89903</latitude>
+   <longitude>9.66828</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDEN(sued) nach EDER Thermal 4 9.27846929 51.11091938 -->
+   <type>thermal</type>
+   <latitude>51.110919</latitude>
+   <longitude>9.27846</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location:  EDEN(sued) nach EDER Thermal 5 9.41302292 51.02875997 -->
+   <type>thermal</type>
+   <latitude>51.028759</latitude>
+   <longitude>9.41302</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location:  EDEN(sued) nach EDER Thermal 6 9.82240223 50.64861866 -->
+   <type>thermal</type>
+   <latitude>50.648618</latitude>
+   <longitude>9.82240</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  EDEN(sued) nach EDER Thermal 7 9.88103148 50.53919415 -->
+   <type>thermal</type>
+   <latitude>50.53919</latitude>
+   <longitude>9.88103</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <!-- Location west from EDZH EDER and eastern of POHL -->
+
+  <entry>
+   <!-- Thermal 1 9.50790279 50.64197759 -->
+   <type>thermal</type>
+   <latitude>50.641977</latitude>
+   <longitude>9.50790</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!--  Thermal 2 9.42779878 50.39863951 -->
+   <type>thermal</type>
+   <latitude>50.398639</latitude>
+   <longitude>9.42779</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Thermal 3 9.04876119 50.92258461 -->
+   <type>thermal</type>
+   <latitude>50.922584</latitude>
+   <longitude>9.04876</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Thermal 4 9.19124724 50.90922357 -->
+   <type>thermal</type>
+   <latitude>50.909223</latitude>
+   <longitude>9.19124</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 5 9.59094254 50.46714165 -->
+   <type>thermal</type>
+   <latitude>50.467141</latitude>
+   <longitude>9.590942</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 6 9.48420949 50.88330984 -->
+   <type>thermal</type>
+   <latitude>50.88330</latitude>
+   <longitude>9.48420</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Thermal 7 9.18795435 50.63305049 -->
+   <type>thermal</type>
+   <latitude>50.633050</latitude>
+   <longitude>9.18795</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.362102</latitude>
+   <longitude>9.14629</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry> 
+  
+  
+  <!-- Added by D-SVEN -->
+  
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.10012306</latitude>
+   <longitude>7.93585510</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.32854168</latitude>
+   <longitude>8.54547768</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.24146419</latitude>
+   <longitude>8.39041170</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.21278090</latitude>
+   <longitude>8.28808829</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>8000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.20541236</latitude>
+   <longitude>8.12527573</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.16394016</latitude>
+   <longitude>8.03011868</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>7000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Thermal 8 9.14629440 50.36210282 -->
+   <type>thermal</type>
+   <latitude>50.26263765</latitude>
+   <longitude>8.45822865</longitude>
+   <strength-fps>30</strength-fps>
+   <diameter-ft>10000.0</diameter-ft>
+   <height-msl>7000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+											
+ </scenario>
+
+</PropertyList>

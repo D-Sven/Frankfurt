@@ -14,17 +14,18 @@ Custom scenery of Rheinhessen for FlightGear flight simulator
 	* updated airport layout/runway config
 	* new parking positions
 	* FMS procedures
+* Frankfurt Egelsbach (EDFE)
+	* custom main/secondary objects
+	* new parking positions
+	* updated airport layout
 * Wiesbaden AAF (ETOU)
 	* shared objects
-	* updated airport layout
-* Frankfurt Egelsbach (EDFE)
-	* terrasync objects
-	* custom objects (todo)
 	* updated airport layout
 * Hospital helipads
 	* Frankfurt Uniklinik
 	* Frankfurt Hoechst
 	* Wiesbaden
+	* Mainz
 * All other small (closed) fields or gliderspots + osm2city in covered area:
     
 ![Coverage](coverage.jpg)
@@ -52,6 +53,14 @@ Custom scenery of Rheinhessen for FlightGear flight simulator
 	https://gitlab.com/osm2city
 * osm raw data:
 	https://download.geofabrik.de/
+
+### More useful links:
+
+* FlightGear wiki:
+	https://wiki.flightgear.org/Frankfurt_am_Main_Airport
+* Frankfurt-Hahn custom scenery:
+	https://github.com/D-Sven/Frankfurt-Hahn
+
 
 ### Special thanks to:
 

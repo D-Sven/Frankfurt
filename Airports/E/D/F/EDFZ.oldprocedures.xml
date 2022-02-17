@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <Airport ICAOcode="EDFZ">
+   <Sid Name="Pattern" Runways="25">
+      <Sid_Waypoint ID="1">
+        <Name>Crosswind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.962774</Latitude>
+        <Longitude>8.108746</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>Downwind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.942832</Latitude>
+        <Longitude>8.114838</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>Base</Name>
+        <Type>Normal</Type>
+        <Latitude>49.950689</Latitude>
+        <Longitude>8.166080</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>Base</Name>
+        <Type>Normal</Type>
+        <Latitude>49.962122</Latitude>
+        <Longitude>8.180976</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>Final</Name>
+        <Type>Normal</Type>
+        <Latitude>49.974395</Latitude>
+        <Longitude>8.175871</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>Touchdown</Name>
+        <Type>Normal</Type>
+        <Latitude>49.968924</Latitude>
+        <Longitude>8.146632</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="Pattern" Runways="07">
+      <Sid_Waypoint ID="1">
+        <Name>Crosswind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.974395</Latitude>
+        <Longitude>8.175871</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>Downwind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.962122</Latitude>
+        <Longitude>8.180976</Longitude>
+      </Sid_Waypoint>
+        <Sid_Waypoint ID="3">
+        <Name>Downwind</Name>
+        <Type>Normal</Type>
+        <Latitude>49.950689</Latitude>
+        <Longitude>8.166080</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>Base</Name>
+        <Type>Normal</Type>
+        <Latitude>49.942832</Latitude>
+        <Longitude>8.114838</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>Final</Name>
+        <Type>Normal</Type>
+        <Latitude>49.962774</Latitude>
+        <Longitude>8.108746</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>Touchdown</Name>
+        <Type>Normal</Type>
+        <Latitude>49.968924</Latitude>
+        <Longitude>8.146632</Longitude>
+      </Sid_Waypoint>
+  </Sid>
+</Airport>

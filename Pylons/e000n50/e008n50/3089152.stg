@@ -1,20 +1,20 @@
 # pylons_e000n50_e007n50_3072771
 # do not edit below this line
-# Last Written Fri Dec  3 12:14:06 2021
+# Last Written Thu Feb 17 13:50:59 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.00401 50.00770 115.80 390.468
 # END pylons_e000n50_e007n50_3072771
 # pylons_e000n40_e008n49_3089144
 # do not edit below this line
-# Last Written Fri Dec  3 12:28:31 2021
+# Last Written Thu Feb 17 14:19:08 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.06618 50.00076 84.11 449.753
 # END pylons_e000n40_e008n49_3089144
 # pylons_e000n50_e008n50_3089152
 # do not edit below this line
-# Last Written Fri Dec  3 12:52:52 2021
+# Last Written Thu Feb 17 15:02:36 2022
 #
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.19046 50.03081 87.03 344.076
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.12322 50.02897 95.18 403.442
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.19046 50.03081 87.03 161.282
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n50_3089152c00.ac 8.02793 50.01798 0.00 90
 OBJECT_BUILDING_MESH_DETAILED e000n50_e008n50_3089152c10.ac 8.08380 50.01798 0.00 90
@@ -41,7 +41,7 @@ OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 8.23789 50.02642 -3.09 45
 # END pylons_e000n50_e008n50_3089152
 # pylons_e000n50_e008n50_3089153
 # do not edit below this line
-# Last Written Fri Dec  3 13:01:32 2021
+# Last Written Thu Feb 17 15:18:48 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.24887 50.04177 92.44 240.213
 # END pylons_e000n50_e008n50_3089153

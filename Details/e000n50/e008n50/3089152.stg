@@ -1,6 +1,6 @@
 # details_e000n50_e008n50_3089152
 # do not edit below this line
-# Last Written Fri Dec  3 12:52:53 2021
+# Last Written Thu Feb 17 15:02:38 2022
 #
 OBJECT_STATIC e000n50_e008n50_3089152d00.ac 8.02793 50.01798 0.00 0
 OBJECT_STATIC e000n50_e008n50_3089152d10.ac 8.08380 50.01798 0.00 0
@@ -16,13 +16,13 @@ OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 8.10055 50.01194 80.
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 8.09988 50.01181 80.00 72.7373
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 8.16449 50.03438 81.16 -10.1953
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 8.23728 50.03572 83.15 212.284
-OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 8.14214 50.02316 80.00 42.0449
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 8.16721 50.03014 81.16 3.38545
 OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 8.16742 50.03039 81.16 63.6744
 OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 8.16925 50.03055 81.16 336.037
-OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 8.14152 50.02237 80.00 223.21
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 8.14298 50.02344 80.00 60.1333
-OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 8.19707 50.04201 81.65 178.644
-OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 8.19291 50.04134 81.28 169.884
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 8.19332 50.04138 81.28 349.859
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 8.14298 50.02344 80.00 60.1333
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 8.14214 50.02316 80.00 42.0449
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 8.19402 50.04149 81.28 171.513
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 8.19707 50.04201 81.65 178.644
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 8.19291 50.04134 81.28 169.884
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 8.19332 50.04138 81.28 349.859
 # END details_e000n50_e008n50_3089152

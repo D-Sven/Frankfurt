@@ -1,24 +1,24 @@
 # pylons_e000n40_e008n49_3089145
 # do not edit below this line
-# Last Written Fri Dec  3 12:35:32 2021
+# Last Written Thu Feb 17 14:28:42 2022
 #
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.34394 50.00069 82.42 92.5531
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.45157 50.00071 91.90 136.87
 # END pylons_e000n40_e008n49_3089145
 # pylons_e000n50_e008n50_3089152
 # do not edit below this line
-# Last Written Fri Dec  3 12:52:52 2021
+# Last Written Thu Feb 17 15:02:36 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.25159 50.02163 85.07 393.212
 # END pylons_e000n50_e008n50_3089152
 # pylons_e000n50_e008n50_3089161
 # do not edit below this line
-# Last Written Fri Dec  3 12:55:12 2021
+# Last Written Thu Feb 17 15:04:55 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.35666 50.12499 289.78 281.55
 # END pylons_e000n50_e008n50_3089161
 # pylons_e000n50_e008n50_3089153
 # do not edit below this line
-# Last Written Fri Dec  3 13:01:32 2021
+# Last Written Thu Feb 17 15:18:48 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.46951 50.09703 135.47 308.16
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.44197 50.05981 129.49 180.4
@@ -43,15 +43,15 @@ OBJECT_BUILDING_MESH_DETAILED e000n50_e008n50_3089153c43.ac 8.47346 50.10788 0.0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac 8.47398 50.07911 110.27 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 8.47392 50.07934 110.62 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 8.40412 50.00146 87.16 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 8.47009 50.02646 89.36 0
-OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 8.47264 50.02531 18.78 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 8.47099 50.02605 91.75 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 8.47036 50.02534 17.33 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 8.46915 50.02573 87.16 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 8.47022 50.02473 89.81 0
 OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 8.46306 50.01363 -367.78 450
 OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 8.32676 50.04397 65.70 450
 # END pylons_e000n50_e008n50_3089153
 # pylons_e000n50_e008n50_3089154
 # do not edit below this line
-# Last Written Fri Dec  3 13:25:01 2021
+# Last Written Thu Feb 17 16:00:03 2022
 #
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.49932 50.07742 96.85 115.912
 # END pylons_e000n50_e008n50_3089154

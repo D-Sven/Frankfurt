@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+  <name>Thermals around EDFZ</name>
+  <description>
+     Thermals for training purposes around EDFZ, Mainz as well as for cross-country flights to Idar-Oberstein / Hoppstaedten-Weiersbach and northbound to Limburg connecting to the "Thermals around for POHL" by D-ABBA (east of EDER).
+  </description>
+  
+    <!-- From Mainz to Hoppstaedten-Weiersbach -->
+ 
+  <entry>
+    <!-- Location: Lerchenberg Waldkante -->
+   <type>thermal</type>
+   <latitude>49.960563</latitude>
+   <longitude>8.156152</longitude>
+   <strength-fps>17</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>5500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location: Uhlerborn -->
+   <type>thermal</type>
+   <latitude>50.004074</latitude>
+   <longitude>8.135738</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  Wackernheim -->
+   <type>thermal</type>
+   <latitude>49.977156</latitude>
+   <longitude>8.114982</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location:  Ingelheim  -->
+   <type>thermal</type>
+   <latitude>49.974541</latitude>
+   <longitude>8.067757</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+  <entry>
+   <!-- Location: Langenlohnsheim -->
+   <type>thermal</type>
+   <latitude>49.933366</latitude>
+   <longitude>7.912473</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Stromberg -->
+   <type>thermal</type>
+   <latitude>49.949765</latitude>
+   <longitude>7.792881</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Woerrstadt -->
+   <type>thermal</type>
+   <latitude>49.85886</latitude>
+   <longitude>8.141</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>5500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Kircheimbolanden -->
+   <type>thermal</type>
+   <latitude>49.665</latitude>
+   <longitude>7.9548</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+   <entry>
+   <!-- Location: Gruenstadt -->
+   <type>thermal</type>
+   <latitude>49.5301</latitude>
+   <longitude>8.1738</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Bad Duerkheim -->
+   <type>thermal</type>
+   <latitude>49.4485</latitude>
+   <longitude>8.1484</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Speyerdorf -->
+   <type>thermal</type>
+   <latitude>49.3205</latitude>
+   <longitude>8.2075</longitude>
+   <strength-fps>22</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>6500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Oberwesel - link to thermals around POHL -->
+   <type>thermal</type>
+   <latitude>50.112291</latitude>
+   <longitude>7.739489</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Dermbachtal - link to thermals around POHL -->
+   <type>thermal</type>
+   <latitude>50.261802</latitude>
+   <longitude>7.838420</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Diez - link to thermals around POHL -->
+   <type>thermal</type>
+   <latitude>50.358993</latitude>
+   <longitude>8.015877</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Argenschwang -->
+   <type>thermal</type>
+   <latitude>49.873623</latitude>
+   <longitude>7.702716</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Bad Kreuznach -->
+   <type>thermal</type>
+   <latitude>49.822004</latitude>
+   <longitude>7.809997</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Bad Sobernheim -->
+   <type>thermal</type>
+   <latitude>49.794399</latitude>
+   <longitude>7.660329</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Simmern -->
+   <type>thermal</type>
+   <latitude>49.9736</latitude>
+   <longitude>7.5272</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+   <entry>
+   <!-- Location: Breitscheid -->
+   <type>thermal</type>
+   <latitude>50.0546</latitude>
+   <longitude>7.7048</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7000</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Sonnenschied -->
+   <type>thermal</type>
+   <latitude>49.823333</latitude>
+   <longitude>7.387342</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Nastaetten -->
+   <type>thermal</type>
+   <latitude>50.2072</latitude>
+   <longitude>7.8589</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Limburg -->
+   <type>thermal</type>
+   <latitude>50.3734</latitude>
+   <longitude>8.0489</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Meckenbach / Flugplatz Kirn -->
+   <type>thermal</type>
+   <latitude>49.776402</latitude>
+   <longitude>7.528661</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Idar-Oberstein -->
+   <type>thermal</type>
+   <latitude>49.726059</latitude>
+   <longitude>7.336560</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Schwollen -->
+   <type>thermal</type>
+   <latitude>49.707920</latitude>
+   <longitude>7.161609</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+  
+  <entry>
+   <!-- Location: Hoppstaedten-Weiersbach -->
+   <type>thermal</type>
+   <latitude>49.622136</latitude>
+   <longitude>7.204051</longitude>
+   <strength-fps>20</strength-fps>
+   <diameter-ft>4800.0</diameter-ft>
+   <height-msl>7500</height-msl>
+   <model>Models/Geometry/thermalcap.xml</model>
+  </entry>
+
+ </scenario>
+
+</PropertyList>
