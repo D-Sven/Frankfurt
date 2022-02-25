@@ -8,7 +8,7 @@ Custom scenery of Rheinhessen for FlightGear flight simulator
 	* many new secondary/cargo buildings
 	* Terminal 3 WIP
 	* new parking positios
-	* FMS procedures for all runways (todo)
+	* FMS procedures for all runways
 * Mainz Finthen (EDFZ)
 	* custom main/secondary buildings
 	* updated airport layout/runway config
