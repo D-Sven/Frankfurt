@@ -10,8 +10,8 @@
   <gen> <!-- General Aviation --> 
     <wind tail="7"
           cross="20"/>
-    <time start="00:00"
-          end  = "24:00"
+    <time start="09:00"
+          end  = "20:00"
           schedule = "day"/>
 
   </gen>
